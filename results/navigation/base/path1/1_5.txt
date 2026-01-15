@@ -1,0 +1,13 @@
+<output>
+  <step1>
+    <context>Skull</context>
+  </step1>
+  <step2>
+    <x>LEFT</x>
+    <extent_x>LARGE</extent_x>
+    <reason_x>Relative to the context Skull, the target Left scapular inferior angle is situated to the anatomical left, therefore a large shift to the left is needed to bring the target closer to the center.</reason_x>
+    <y>DOWN</y>
+    <extent_y>LARGE</extent_y>
+    <reason_y>The target Left scapular inferior angle is significantly inferior compared to the context Skull; hence, a large downward movement is required to align the target.</reason_y>
+  </step2>
+</output>

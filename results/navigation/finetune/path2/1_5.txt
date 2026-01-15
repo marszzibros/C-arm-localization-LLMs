@@ -1,0 +1,13 @@
+<output>
+  <step1>
+    <context>Skull</context>
+  </step1>
+  <step2>
+    <x>LEFT</x>
+    <extent_x>MODERATE</extent_x>
+    <reason_x>The target Left scapular inferior angle is to the left of the context Skull, so the view should move left.</reason_x>
+    <y>DOWN</y>
+    <extent_y>MODERATE</extent_y>
+    <reason_y>The target Left scapular inferior angle is inferior to the Skull, so the view should move down.</reason_y>
+  </step2>
+</output>

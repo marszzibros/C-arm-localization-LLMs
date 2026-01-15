@@ -1,0 +1,13 @@
+<output>
+  <step1>
+    <context>Right humeral head</context>
+  </step1>
+  <step2>
+    <x>RIGHT</x>
+    <extent_x>MODERATE</extent_x>
+    <reason_x>The target Right scapular inferior angle is to the right of the current view center, which is defined by the Right humeral head, so the view should move right.</reason_x>
+    <y>DOWN</y>
+    <extent_y>MODERATE</extent_y>
+    <reason_y>The target Right scapular inferior angle is inferior to the Right humeral head, so the view should move down.</reason_y>
+  </step2>
+</output>

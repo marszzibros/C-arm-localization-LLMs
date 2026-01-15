@@ -1,0 +1,13 @@
+<output>
+  <step1>
+    <context>Skull</context>
+  </step1>
+  <step2>
+    <x>CENTER</x>
+    <extent_x>NONE</extent_x>
+    <reason_x>The target Skull and the context Skull are essentially aligned left–right, so no horizontal movement is needed.</reason_x>
+    <y>CENTER</y>
+    <extent_y>NONE</extent_y>
+    <reason_y>The target Skull and the context Skull are essentially aligned vertically, so no vertical adjustment is required.</reason_y>
+  </step2>
+</output>

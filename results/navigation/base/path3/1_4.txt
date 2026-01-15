@@ -1,0 +1,13 @@
+<output>
+  <step1>
+    <context>Right humeral head</context>
+  </step1>
+  <step2>
+    <x>RIGHT</x>
+    <extent_x>SMALL</extent_x>
+    <reason_x>Relative to the current context of the Right humeral head, the target Right scapular inferior angle is located slightly to the anatomical right; a small rightward shift is appropriate.</reason_x>
+    <y>DOWN</y>
+    <extent_y>MODERATE</extent_y>
+    <reason_y>The target Right scapular inferior angle is inferior to the current context of the Right humeral head, requiring a moderate downward adjustment to move the target closer to the center.</reason_y>
+  </step2>
+</output>

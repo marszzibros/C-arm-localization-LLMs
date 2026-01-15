@@ -1,0 +1,13 @@
+<output>
+  <step1>
+    <context>Skull</context>
+  </step1>
+  <step2>
+    <x>LEFT</x>
+    <extent_x>MODERATE</extent_x>
+    <reason_x>Relative to the context Skull, the target Left scapular inferior angle is located to the anatomical left, so the view should move left.</reason_x>
+    <y>DOWN</y>
+    <extent_y>MODERATE</extent_y>
+    <reason_y>Compared to the context Skull, the target Left scapular inferior angle is situated inferiorly; therefore, the view needs to be adjusted downwards.</reason_y>
+  </step2>
+</output>

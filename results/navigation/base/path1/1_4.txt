@@ -1,0 +1,13 @@
+<output>
+  <step1>
+    <context>Skull</context>
+  </step1>
+  <step2>
+    <x>RIGHT</x>
+    <extent_x>MODERATE</extent_x>
+    <reason_x>Relative to the context Skull, the target Right scapular inferior angle is located to the anatomical right, so the view should shift right.</reason_x>
+    <y>DOWN</y>
+    <extent_y>LARGE</extent_y>
+    <reason_y>The target Right scapular inferior angle is considerably inferior to the Skull, so a substantial downward adjustment is needed.</reason_y>
+  </step2>
+</output>

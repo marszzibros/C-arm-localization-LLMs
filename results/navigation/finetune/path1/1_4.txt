@@ -1,0 +1,13 @@
+<output>
+  <step1>
+    <context>Skull</context>
+  </step1>
+  <step2>
+    <x>RIGHT</x>
+    <extent_x>LARGE</extent_x>
+    <reason_x>The target Right scapular inferior angle is significantly to the anatomical right of the context Skull, so a large rightward shift is needed.</reason_x>
+    <y>DOWN</y>
+    <extent_y>MODERATE</extent_y>
+    <reason_y>The target Right scapular inferior angle is inferior to the Skull, so the view should move down moderately.</reason_y>
+  </step2>
+</output>

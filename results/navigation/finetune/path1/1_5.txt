@@ -1,0 +1,13 @@
+<output>
+  <step1>
+    <context>Skull</context>
+  </step1>
+  <step2>
+    <x>CENTER</x>
+    <extent_x>NONE</extent_x>
+    <reason_x>The target Left scapular inferior angle is roughly centered horizontally relative to the Skull.</reason_x>
+    <y>DOWN</y>
+    <extent_y>MODERATE</extent_y>
+    <reason_y>The target Left scapular inferior angle is significantly inferior to the Skull, so the view should move down.</reason_y>
+  </step2>
+</output>

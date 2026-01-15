@@ -1,0 +1,13 @@
+<output>
+  <step1>
+    <context>T1</context>
+  </step1>
+  <step2>
+    <x>CENTER</x>
+    <extent_x>NONE</extent_x>
+    <reason_x>The target Skull and the context T1 are essentially aligned left-right, so no horizontal movement is needed.</reason_x>
+    <y>UP</y>
+    <extent_y>MODERATE</extent_y>
+    <reason_y>The target Skull is superior to the context T1, so the view should move up.</reason_y>
+  </step2>
+</output>

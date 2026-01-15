@@ -1,0 +1,13 @@
+<output>
+  <step1>
+    <context>Left scapular inferior angle</context>
+  </step1>
+  <step2>
+    <x>LEFT</x>
+    <extent_x>MODERATE</extent_x>
+    <reason_x>The target Skull is to the left of the current context Left scapular inferior angle, so the view should move left.</reason_x>
+    <y>UP</y>
+    <extent_y>LARGE</extent_y>
+    <reason_y>The target Skull is significantly superior to the current context Left scapular inferior angle, so the view should move up.</reason_y>
+  </step2>
+</output>

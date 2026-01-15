@@ -41,9 +41,9 @@ class Inference:
         if mode == "test":
             self.folder = "navigation/first_pred"
             os.system(f"mkdir {self.folder}")
-            self.df = pd.read_csv("data/navigation_dataset.csv")
+            self.df = pd.read_csv("../../data/navigation_dataset.csv")
             # per patient, sample 256 images
-            with open("prompts/navigation.txt", "r") as f:
+            with open("../prompts/navigation.txt", "r") as f:
                 self.system_prompt = f.read()
             self.vertical_flip = False
         elif "flip" in mode:
@@ -54,7 +54,7 @@ class Inference:
             os.system(f"mkdir {self.folder}")
             self.df = pd.read_csv(next_path)
             # per patient, sample 256 images
-            with open("prompts/navigation.txt", "r") as f:
+            with open("../prompts/navigation.txt", "r") as f:
                 self.system_prompt = f.read()
             self.vertical_flip = True
         else:
@@ -62,7 +62,7 @@ class Inference:
             os.system(f"mkdir {self.folder}")
             self.df = pd.read_csv(next_path)
             # per patient, sample 256 images
-            with open("prompts/navigation.txt", "r") as f:
+            with open("../prompts/navigation.txt", "r") as f:
                 self.system_prompt = f.read()
             self.vertical_flip = False            
 
@@ -140,15 +140,6 @@ class Inference:
                 )
 
                 generated_text = self.processor.tokenizer.decode(outputs[0][inputs['input_ids'].shape[-1]:], skip_special_tokens=True)
-                # # --- run inference with streaming ---
-                # streamer = TextIteratorStreamer(self.processor.tokenizer, skip_prompt=True)
-                # thread = threading.Thread(
-                #     target=self.model.generate,
-                #     kwargs=dict(**inputs, streamer=streamer, max_new_tokens=128,
-                #                 use_cache=True, temperature = 1.0, top_k = 64, top_p = 0.95, min_p = 0.0)
-                # )
-                
-                # thread.start()
 
                 # --- record end time & compute duration ---
                 end_time = time.time()

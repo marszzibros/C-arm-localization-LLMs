@@ -1,4 +1,4 @@
-# Agentic C-arm Control with VLM
+# A taste of agentic C-arm control
 
 This project explores the use of Vision-Language Models (VLMs) for C-arm localization and navigation tasks.
 

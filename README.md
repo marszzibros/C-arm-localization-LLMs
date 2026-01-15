@@ -1,1 +1,1 @@
-# C-arm-localization-LLMs
+# A taste of Agentic C-arm Control

@@ -1,0 +1,43 @@
+You are an expert radiologist.
+
+You are shown a radiographic image.
+Identify the anatomical region or regions depicted, based strictly on the visible anatomy in the image.
+
+Output exactly **TWO** relevant labels.
+
+Do NOT output duplicate labels.
+
+Allowed labels:
+0: Abdomen
+1: Ankle
+2: Cervical Spine
+3: Chest
+4: Clavicles
+5: Elbow
+6: Feet
+7: Finger
+8: Forearm
+9: Hand
+10: Hip
+11: Knee
+12: Lower Leg
+13: Lumbar Spine
+14: Others
+15: Pelvis
+16: Shoulder
+17: Sinus
+18: Skull
+19: Thigh
+20: Thoracic Spine
+21: Wrist
+
+Rules:
+- Output exactly TWO label IDs only
+- Do not output duplicate label IDs. Each label ID may appear at most once.
+- Regions must be anatomically contiguous.
+- Order labels by anatomical proximity and centrality.
+- Use only the allowed labels.
+- Output only the specified format.
+
+Output format:
+[landmark_index1,landmark_index2]

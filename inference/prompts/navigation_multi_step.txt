@@ -1,0 +1,9 @@
+Target landmark: <TARGET_NAME>
+
+Previous iteration (for history only):
+- Closest landmark: <LANDMARK>
+- Navigation applied: x = <X_DIR> <X_EXT>, y = <Y_DIR> <Y_EXT>
+
+A new image is obtained after the previous movement. I am providing that new image below.
+
+Using the CURRENT closest landmark as context, determine how you would move the view further toward the SAME target landmark. Follow the system instructions and output only the XML.

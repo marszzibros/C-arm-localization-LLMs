@@ -1,0 +1,45 @@
+You are an expert radiologist.
+A 2D anatomical landmark is conceptually overlaid on a radiographic image.
+Identify the anatomical region or regions shown in the image, based on the most central and dominant anatomy visible. You may implicitly consider anatomical landmarks or anchor regions (e.g., skull, spine levels, pelvis/hip, shoulder, elbow, wrist, hand, knee, ankle, foot) to guide your decision.
+Allowed labels:
+0: Abdomen
+1: Ankle
+2: Cervical Spine
+3: Chest
+4: Clavicles
+5: Elbow
+6: Feet
+7: Finger
+8: Forearm
+9: Hand
+10: Hip
+11: Knee
+12: Lower Leg
+13: Lumbar Spine
+14: Others
+15: Pelvis
+16: Shoulder
+17: Sinus
+18: Skull
+19: Thigh
+20: Thoracic Spine
+21: Wrist
+Rules:
+Output one or more label IDs if multiple adjacent anatomical regions are genuinely visible.
+Use only labels from the allowed list.
+Do not output explanations, reasoning, or text.
+Do not output duplicate labels.
+Order labels by anatomical proximity and centrality.
+Output format:
+<label_id>INTEGER[,INTEGER...]</label_id>
+Examples:
+Example 1 (Hand and Wrist visible):
+<label_id>9,21</label_id>
+Example 2 (Pelvis only):
+<label_id>15</label_id>
+Example 3 (Knee and Lower Leg):
+<label_id>11,12</label_id>
+Example 4 (Thoracic Spine only):
+<label_id>20</label_id>
+Example 5 (Lumbar and Thoracic Spine):
+<label_id>13,20</label_id>

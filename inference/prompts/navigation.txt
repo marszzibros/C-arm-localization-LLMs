@@ -1,0 +1,212 @@
+GEOMETRIC NAVIGATION CLASSIFIER FOR SIMULATED C-ARM X-RAY IMAGES
+
+You MUST follow all instructions below and output VALID XML ONLY.  
+Do NOT output any text outside the XML structure.
+
+============================================================
+TASK OVERVIEW
+============================================================
+You will perform TWO STEPS:
+
+STEP 1:
+Identify WHICH SINGLE LANDMARK is closest to the image center.
+
+STEP 2:
+Given the current closest landmark (context) and a USER TARGET landmark,
+decide how to MOVE THE VIEW so the TARGET landmark moves toward the image center.
+
+All directions are in the PATIENT’S ANATOMICAL FRAME:
+- LEFT / RIGHT = anatomical left / right
+- UP = cranial / superior
+- DOWN = caudal / inferior
+
+You are describing movement of the VIEW, not movement of the anatomy.
+
+============================================================
+LANDMARK LIST (exact names)
+============================================================
+You MUST use these exact names:
+
+1. Skull
+2. Right humeral head
+3. Left humeral head
+4. Right scapular inferior angle
+5. Left scapular inferior angle
+6. Right elbow
+7. Left elbow
+8. Right wrist
+9. Left wrist
+10. T1
+11. Carina
+12. Right hemidiaphragm
+13. Left hemidiaphragm
+14. T12
+
+The USER TARGET ID will always be one of 1–14 from this list.
+
+============================================================
+STEP 1 — VIEW CONTEXT (SINGLE CLOSEST LANDMARK)
+============================================================
+Choose the ONE landmark that is closest to the image center.
+
+Output:
+
+<step1>
+  <context>LANDMARK_NAME</context>
+</step1>
+
+Rules:
+- <context> MUST be exactly one of the 14 names above
+- Output exactly ONE name
+- Do not output IDs or multiple landmarks
+
+============================================================
+STEP 2 — MOVEMENT DECISION (ANATOMICAL FRAME)
+============================================================
+Inputs:
+- context landmark from Step 1
+- target landmark from the 1–14 list
+
+Goal:
+- determine the anatomical direction of the TARGET relative to the current view center
+- decide how to MOVE THE VIEW so the TARGET moves toward the image center
+
+Allowed tokens:
+
+<x> must be exactly one of:
+- LEFT
+- RIGHT
+- CENTER
+
+<y> must be exactly one of:
+- UP
+- DOWN
+- CENTER
+
+Extent tokens (both axes):
+- NONE
+- SMALL
+- MODERATE
+- LARGE
+
+Extent rules:
+- If direction = CENTER → extent MUST be NONE
+- If direction ≠ CENTER → extent MUST NOT be NONE
+
+Direction rules:
+- target toward anatomical right  → x = RIGHT
+- target toward anatomical left   → x = LEFT
+- target is superior              → y = UP
+- target is inferior              → y = DOWN
+- if already approximately aligned → CENTER
+
+Output format:
+
+<step2>
+  <x>LEFT|RIGHT|CENTER</x>
+  <extent_x>NONE|SMALL|MODERATE|LARGE</extent_x>
+  <reason_x>...</reason_x>
+  <y>UP|DOWN|CENTER</y>
+  <extent_y>NONE|SMALL|MODERATE|LARGE</extent_y>
+  <reason_y>...</reason_y>
+</step2>
+
+Any other value makes the output INVALID.
+
+============================================================
+CORE ANATOMICAL ORDER (SUPERIOR → INFERIOR)
+============================================================
+You MUST respect the following vertical anatomical order:
+
+Skull  
+T1  
+Carina  
+Right scapular inferior angle / Left scapular inferior angle  
+Hemidiaphragms  
+T12  
+
+Therefore:
+
+- Skull is ALWAYS superior to T1
+- T1 is ALWAYS inferior to Skull
+- Carina is inferior to T1
+- Both the Right scapular inferior angle and the Left scapular inferior angle are inferior to T1
+- Hemidiaphragms are inferior to Carina
+- T12 is inferior to the hemidiaphragms
+
+============================================================
+ANATOMICAL KNOWLEDGE TO USE (LATERAL & DISTAL)
+============================================================
+You may also assume:
+
+- Right-sided landmarks are on anatomical right
+- Left-sided landmarks are on anatomical left
+- Humeral heads are lateral to the thoracic spine
+- Elbows are distal/inferior to humeral heads
+- Wrists are distal/inferior to elbows
+- Scapular inferior angles are inferior to humeral heads
+- Skull is located in center
+
+ADDITIONAL RELATIONS FOR SCAPULAR INFERIOR ANGLES AND Skull:
+
+- Both scapular inferior angles (Right and Left) are located clearly inferior (caudal) to Skull.
+- Skull is always superior to both scapular inferior angles.
+- Therefore, relative to Skull:
+  - The Right scapular inferior angle is inferior AND to the anatomical right.
+  - The Left scapular inferior angle is inferior AND to the anatomical left.
+
+============================================================
+REASONING REQUIREMENTS
+============================================================
+For BOTH reason_x and reason_y:
+
+You MUST:
+- explicitly name BOTH the context landmark and the target landmark
+- clearly describe their relationship on that axis
+  - left/right for x
+  - superior/inferior (above/below) for y
+  - or aligned/centered if CENTER is chosen
+
+You MUST ensure:
+- the textual reason matches the chosen direction token
+- the reason does NOT contradict the direction
+- Skull vs T1 relation is NOT described as “same level” or “aligned”
+
+You may vary wording freely:
+- short or long sentences
+- “above/below” or “superior/inferior”
+- “shift/move/adjust” etc.
+
+Examples of acceptable (not mandatory):
+
+x-axis:
+- “Relative to the context T1, the target Left humeral head is farther to the anatomical left, so the view should move left.”
+- “The target Right elbow lies on the anatomical right compared with the context Carina, so a rightward shift is appropriate.”
+- “The target T1 and the context Skull are essentially aligned left–right, so no horizontal movement is needed.”
+
+y-axis:
+- “The target T1 is inferior to the Skull, so the view should move down.”
+- “Compared to the context Right humeral head, the target Right wrist is positioned inferiorly, so a downward adjustment is needed.”
+- “The target Left humeral head is at a similar vertical level to the context Right humeral head, so no vertical change is required.”
+
+============================================================
+FINAL OUTPUT FORMAT (XML ONLY)
+============================================================
+
+You MUST output ONLY:
+
+<output>
+  <step1>
+    <context>LANDMARK_NAME</context>
+  </step1>
+  <step2>
+    <x>LEFT|RIGHT|CENTER</x>
+    <extent_x>NONE|SMALL|MODERATE|LARGE</extent_x>
+    <reason_x>...</reason_x>
+    <y>UP|DOWN|CENTER</y>
+    <extent_y>NONE|SMALL|MODERATE|LARGE</extent_y>
+    <reason_y>...</reason_y>
+  </step2>
+</output>
+
+No other text is allowed outside the XML structure.

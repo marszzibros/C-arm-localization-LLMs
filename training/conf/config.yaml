@@ -1,0 +1,6 @@
+defaults:
+  - _self_
+  - train: SFT
+  - lora: default
+mode: language
+model_id: unsloth/gemma-3-12b-it

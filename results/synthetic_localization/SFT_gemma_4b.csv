@@ -1,0 +1,2350 @@
+filename,output,inference_time_sec
+regenerated_new/1/H/case-100114_JAY_ANNOTATION.png,"[1, 10]",1.34
+regenerated_new/2/H/case-100114_JAY_ANNOTATION.png,"[2,4]",0.63
+regenerated_new/4/H/case-100114_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-100114_JAY_ANNOTATION.png,"[5,3]",0.62
+regenerated_new/6/H/case-100114_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/10/H/case-100114_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-100114_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-100114_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-100114_JAY_ANNOTATION.png,"[4,13]",0.71
+regenerated_new/1/H/case-100129_JAY_ANNOTATION.png,"[1, 1]",0.71
+regenerated_new/2/H/case-100129_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-100129_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/5/H/case-100129_JAY_ANNOTATION.png,"[3,5]",0.62
+regenerated_new/6/H/case-100129_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/10/H/case-100129_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-100129_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-100129_JAY_ANNOTATION.png,"[12, 4]",0.79
+regenerated_new/13/H/case-100129_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/1/H/case-100164_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-100164_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-100164_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-100164_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/7/H/case-100164_JAY_ANNOTATION.png,"[13, 7]",0.8
+regenerated_new/10/H/case-100164_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-100164_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-100164_JAY_ANNOTATION.png,"[12, 14]",0.88
+regenerated_new/13/H/case-100164_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-100164_JAY_ANNOTATION.png,"[14, 9]",0.8
+regenerated_new/1/H/case-100229_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-100229_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-100229_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-100229_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/6/H/case-100229_JAY_ANNOTATION.png,"[6,14]",0.71
+regenerated_new/10/H/case-100229_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-100229_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-100229_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-100229_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-100229_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-100245_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-100245_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-100245_JAY_ANNOTATION.png,"[4, 8]",0.71
+regenerated_new/5/H/case-100245_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/10/H/case-100245_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-100245_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-100245_JAY_ANNOTATION.png,"[12, 11]",0.89
+regenerated_new/13/H/case-100245_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-100245_JAY_ANNOTATION.png,"[14, 10]",0.88
+regenerated_new/1/H/case-100247_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-100247_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/5/H/case-100247_JAY_ANNOTATION.png,"[5, 13]",0.79
+regenerated_new/6/H/case-100247_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/7/H/case-100247_JAY_ANNOTATION.png,"[13, 7]",0.8
+regenerated_new/10/H/case-100247_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-100247_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-100247_JAY_ANNOTATION.png,"[12, 13]",0.89
+regenerated_new/13/H/case-100247_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-100247_JAY_ANNOTATION.png,"[14,11]",0.8
+regenerated_new/1/H/case-100254_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-100254_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-100254_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-100254_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/9/H/case-100254_JAY_ANNOTATION.png,"[11, 9]",0.8
+regenerated_new/10/H/case-100254_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-100254_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/13/H/case-100254_JAY_ANNOTATION.png,"[9,13]",0.71
+regenerated_new/14/H/case-100254_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-100265_JAY_ANNOTATION.png,"[1,10]",0.71
+regenerated_new/2/H/case-100265_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-100265_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/5/H/case-100265_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-100265_JAY_ANNOTATION.png,"[6,12]",0.71
+regenerated_new/10/H/case-100265_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-100265_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-100265_JAY_ANNOTATION.png,"[12, 4]",0.79
+regenerated_new/13/H/case-100265_JAY_ANNOTATION.png,"[13, 9]",0.8
+regenerated_new/14/H/case-100265_JAY_ANNOTATION.png,"[14, 3]",0.8
+regenerated_new/1/H/case-100304_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-100304_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/5/H/case-100304_JAY_ANNOTATION.png,"[5, 9]",0.71
+regenerated_new/10/H/case-100304_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-100304_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-100304_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-100304_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-100304_JAY_ANNOTATION.png,"[14, 9]",0.8
+regenerated_new/1/H/case-100308_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-100308_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/5/H/case-100308_JAY_ANNOTATION.png,"[4, 5]",0.71
+regenerated_new/6/H/case-100308_JAY_ANNOTATION.png,"[1, 6]",0.72
+regenerated_new/9/H/case-100308_JAY_ANNOTATION.png,"[9,14]",0.71
+regenerated_new/10/H/case-100308_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-100308_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-100308_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-100308_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-100308_JAY_ANNOTATION.png,"[14,11]",0.8
+regenerated_new/1/H/case-100359_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-100359_JAY_ANNOTATION.png,"[2,12]",0.71
+regenerated_new/4/H/case-100359_JAY_ANNOTATION.png,"[4, 12]",0.8
+regenerated_new/6/H/case-100359_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/10/H/case-100359_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-100359_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-100359_JAY_ANNOTATION.png,"[12, 14]",0.88
+regenerated_new/13/H/case-100359_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-100359_JAY_ANNOTATION.png,"[14,11]",0.8
+regenerated_new/1/H/case-100366_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-100366_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-100366_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-100366_JAY_ANNOTATION.png,"[5, 13]",0.79
+regenerated_new/10/H/case-100366_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-100366_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-100366_JAY_ANNOTATION.png,"[4,12]",0.72
+regenerated_new/14/H/case-100366_JAY_ANNOTATION.png,"[14,11]",0.81
+regenerated_new/1/H/case-100369_JAY_ANNOTATION.png,"[1, 10]",0.81
+regenerated_new/2/H/case-100369_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/5/H/case-100369_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-100369_JAY_ANNOTATION.png,"[2,6]",0.64
+regenerated_new/10/H/case-100369_JAY_ANNOTATION.png,"[10,11]",0.82
+regenerated_new/11/H/case-100369_JAY_ANNOTATION.png,"[11,10]",0.82
+regenerated_new/12/H/case-100369_JAY_ANNOTATION.png,"[12, 14]",0.9
+regenerated_new/13/H/case-100369_JAY_ANNOTATION.png,"[13, 9]",0.82
+regenerated_new/14/H/case-100369_JAY_ANNOTATION.png,"[14, 13]",0.91
+regenerated_new/1/H/case-100371_JAY_ANNOTATION.png,"[1, 2]",0.74
+regenerated_new/2/H/case-100371_JAY_ANNOTATION.png,"[2,12]",0.74
+regenerated_new/4/H/case-100371_JAY_ANNOTATION.png,"[4,12]",0.73
+regenerated_new/5/H/case-100371_JAY_ANNOTATION.png,"[5,13]",0.72
+regenerated_new/6/H/case-100371_JAY_ANNOTATION.png,"[6,13]",0.72
+regenerated_new/10/H/case-100371_JAY_ANNOTATION.png,"[10,11]",0.81
+regenerated_new/11/H/case-100371_JAY_ANNOTATION.png,"[11,10]",0.82
+regenerated_new/12/H/case-100371_JAY_ANNOTATION.png,"[12, 4]",0.81
+regenerated_new/13/H/case-100371_JAY_ANNOTATION.png,"[5,13]",0.73
+regenerated_new/14/H/case-100371_JAY_ANNOTATION.png,"[14, 3]",0.82
+regenerated_new/1/H/case-100515_JAY_ANNOTATION.png,"[1, 2]",0.72
+regenerated_new/2/H/case-100515_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-100515_JAY_ANNOTATION.png,"[4,12]",0.72
+regenerated_new/5/H/case-100515_JAY_ANNOTATION.png,"[5, 13]",0.81
+regenerated_new/10/H/case-100515_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-100515_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-100515_JAY_ANNOTATION.png,"[12, 11]",0.89
+regenerated_new/13/H/case-100515_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-100515_JAY_ANNOTATION.png,"[14, 1]",0.79
+regenerated_new/1/H/case-100518_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-100518_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-100518_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-100518_JAY_ANNOTATION.png,"[5, 13]",0.79
+regenerated_new/10/H/case-100518_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-100518_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-100518_JAY_ANNOTATION.png,"[12, 11]",0.88
+regenerated_new/13/H/case-100518_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-100518_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-100541_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-100541_JAY_ANNOTATION.png,"[2,11]",0.7
+regenerated_new/4/H/case-100541_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-100541_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/10/H/case-100541_JAY_ANNOTATION.png,"[10,11]",0.81
+regenerated_new/11/H/case-100541_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-100541_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/14/H/case-100541_JAY_ANNOTATION.png,"[14,11]",0.81
+regenerated_new/1/H/case-100585_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-100585_JAY_ANNOTATION.png,"[2,12]",0.71
+regenerated_new/4/H/case-100585_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/10/H/case-100585_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-100585_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-100585_JAY_ANNOTATION.png,"[8,12]",0.71
+regenerated_new/13/H/case-100585_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-100585_JAY_ANNOTATION.png,"[14,11]",0.79
+regenerated_new/1/H/case-100591_JAY_ANNOTATION.png,"[1, 2]",0.71
+regenerated_new/2/H/case-100591_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-100591_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/6/H/case-100591_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/10/H/case-100591_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-100591_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-100591_JAY_ANNOTATION.png,"[12, 11]",0.88
+regenerated_new/13/H/case-100591_JAY_ANNOTATION.png,"[13,9]",0.71
+regenerated_new/14/H/case-100591_JAY_ANNOTATION.png,"[14, 13]",0.88
+regenerated_new/1/H/case-100702_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-100702_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-100702_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/10/H/case-100702_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-100702_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/13/H/case-100702_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-100702_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-100770_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-100770_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-100770_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-100770_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-100770_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/10/H/case-100770_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-100770_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-100770_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-100770_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-100770_JAY_ANNOTATION.png,"[14, 13]",0.88
+regenerated_new/1/H/case-100779_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-100779_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-100779_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/6/H/case-100779_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/10/H/case-100779_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-100779_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-100779_JAY_ANNOTATION.png,"[12, 4]",0.79
+regenerated_new/13/H/case-100779_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/14/H/case-100779_JAY_ANNOTATION.png,"[14,10]",0.8
+regenerated_new/1/H/case-100863_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-100863_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-100863_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-100863_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/9/H/case-100863_JAY_ANNOTATION.png,"[13, 9]",0.8
+regenerated_new/10/H/case-100863_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-100863_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-100863_JAY_ANNOTATION.png,"[12, 11]",0.88
+regenerated_new/13/H/case-100863_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/1/H/case-100915_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-100915_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-100915_JAY_ANNOTATION.png,"[4,12]",1.19
+regenerated_new/5/H/case-100915_JAY_ANNOTATION.png,"[5,13]",0.7
+regenerated_new/7/H/case-100915_JAY_ANNOTATION.png,"[13, 7]",0.79
+regenerated_new/10/H/case-100915_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-100915_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-100915_JAY_ANNOTATION.png,"[12, 14]",0.88
+regenerated_new/13/H/case-100915_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-100915_JAY_ANNOTATION.png,"[14, 13]",0.88
+regenerated_new/1/H/case-100917_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-100917_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-100917_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-100917_JAY_ANNOTATION.png,"[5, 13]",0.79
+regenerated_new/10/H/case-100917_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-100917_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-100917_JAY_ANNOTATION.png,"[12, 3]",0.79
+regenerated_new/13/H/case-100917_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-100917_JAY_ANNOTATION.png,"[14,11]",0.79
+regenerated_new/1/H/case-101045_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-101045_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-101045_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-101045_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-101045_JAY_ANNOTATION.png,"[1, 6]",0.71
+regenerated_new/10/H/case-101045_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-101045_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-101045_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-101045_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-101045_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-101074_JAY_ANNOTATION.png,"[1, 2]",0.71
+regenerated_new/2/H/case-101074_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-101074_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-101074_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/6/H/case-101074_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/10/H/case-101074_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-101074_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-101074_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-101074_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/1/H/case-101133_JAY_ANNOTATION.png,"[1, 2]",0.71
+regenerated_new/2/H/case-101133_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-101133_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/10/H/case-101133_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-101133_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-101133_JAY_ANNOTATION.png,"[12, 4]",0.79
+regenerated_new/13/H/case-101133_JAY_ANNOTATION.png,"[9,13]",0.71
+regenerated_new/14/H/case-101133_JAY_ANNOTATION.png,"[14,10]",0.79
+regenerated_new/1/H/case-101195_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-101195_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-101195_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-101195_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/7/H/case-101195_JAY_ANNOTATION.png,"[13, 7]",0.79
+regenerated_new/10/H/case-101195_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-101195_JAY_ANNOTATION.png,"[11, 12]",0.88
+regenerated_new/12/H/case-101195_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-101195_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-101195_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-101206_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-101206_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-101206_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-101206_JAY_ANNOTATION.png,"[5, 13]",0.79
+regenerated_new/6/H/case-101206_JAY_ANNOTATION.png,"[6,14]",0.71
+regenerated_new/10/H/case-101206_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-101206_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-101206_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-101206_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-101206_JAY_ANNOTATION.png,"[14,10]",0.8
+regenerated_new/1/H/case-101362_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-101362_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-101362_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-101362_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/6/H/case-101362_JAY_ANNOTATION.png,"[6,12]",0.71
+regenerated_new/10/H/case-101362_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-101362_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-101362_JAY_ANNOTATION.png,"[12, 13]",0.88
+regenerated_new/13/H/case-101362_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-101362_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-101367_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-101367_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-101367_JAY_ANNOTATION.png,"[4,13]",0.71
+regenerated_new/5/H/case-101367_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/10/H/case-101367_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-101367_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-101367_JAY_ANNOTATION.png,"[12, 6]",0.8
+regenerated_new/14/H/case-101367_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-101409_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-101409_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-101409_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/7/H/case-101409_JAY_ANNOTATION.png,"[13, 7]",0.79
+regenerated_new/9/H/case-101409_JAY_ANNOTATION.png,"[14, 9]",0.79
+regenerated_new/10/H/case-101409_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-101409_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-101409_JAY_ANNOTATION.png,"[12, 11]",0.88
+regenerated_new/13/H/case-101409_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/14/H/case-101409_JAY_ANNOTATION.png,"[10, 14]",0.88
+regenerated_new/1/H/case-101413_JAY_ANNOTATION.png,"[1, 2]",0.71
+regenerated_new/2/H/case-101413_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-101413_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-101413_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-101413_JAY_ANNOTATION.png,"[6,12]",0.71
+regenerated_new/10/H/case-101413_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-101413_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-101413_JAY_ANNOTATION.png,"[12, 11]",0.88
+regenerated_new/13/H/case-101413_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-101413_JAY_ANNOTATION.png,"[14, 10]",0.88
+regenerated_new/1/H/case-101447_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-101447_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/6/H/case-101447_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/10/H/case-101447_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-101447_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-101447_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-101447_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-101447_JAY_ANNOTATION.png,"[14,11]",0.8
+regenerated_new/1/H/case-101510_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-101510_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-101510_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-101510_JAY_ANNOTATION.png,"[4, 5]",0.71
+regenerated_new/6/H/case-101510_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/10/H/case-101510_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-101510_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-101510_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-101510_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-101510_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-101540_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-101540_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-101540_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-101540_JAY_ANNOTATION.png,"[5, 2]",0.71
+regenerated_new/6/H/case-101540_JAY_ANNOTATION.png,"[6,12]",0.71
+regenerated_new/10/H/case-101540_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-101540_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-101540_JAY_ANNOTATION.png,"[12, 13]",0.88
+regenerated_new/13/H/case-101540_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/14/H/case-101540_JAY_ANNOTATION.png,"[14, 9]",0.8
+regenerated_new/1/H/case-101581_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-101581_JAY_ANNOTATION.png,"[2,10]",0.71
+regenerated_new/5/H/case-101581_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/10/H/case-101581_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-101581_JAY_ANNOTATION.png,"[11, 10]",0.89
+regenerated_new/13/H/case-101581_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-101581_JAY_ANNOTATION.png,"[14, 3]",0.8
+regenerated_new/1/H/case-101599_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-101599_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-101599_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-101599_JAY_ANNOTATION.png,"[4, 5]",0.71
+regenerated_new/10/H/case-101599_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-101599_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/12/H/case-101599_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-101599_JAY_ANNOTATION.png,"[5, 13]",0.8
+regenerated_new/14/H/case-101599_JAY_ANNOTATION.png,"[13,14]",0.8
+regenerated_new/1/H/case-101625_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-101625_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/5/H/case-101625_JAY_ANNOTATION.png,"[5, 13]",0.8
+regenerated_new/10/H/case-101625_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-101625_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-101625_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-101625_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-101625_JAY_ANNOTATION.png,"[11, 14]",0.88
+regenerated_new/1/H/case-101641_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-101641_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-101641_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/9/H/case-101641_JAY_ANNOTATION.png,"[9,13]",0.71
+regenerated_new/10/H/case-101641_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-101641_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-101641_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-101641_JAY_ANNOTATION.png,"[5, 13]",0.8
+regenerated_new/14/H/case-101641_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-101857_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-101857_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-101857_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-101857_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-101857_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/10/H/case-101857_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-101857_JAY_ANNOTATION.png,"[11, 12]",0.88
+regenerated_new/12/H/case-101857_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-101857_JAY_ANNOTATION.png,"[5, 13]",0.79
+regenerated_new/14/H/case-101857_JAY_ANNOTATION.png,"[14, 3]",0.8
+regenerated_new/1/H/case-101860_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-101860_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-101860_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-101860_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/10/H/case-101860_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-101860_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/12/H/case-101860_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-101860_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-101860_JAY_ANNOTATION.png,"[14,11]",0.79
+regenerated_new/1/H/case-101885_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-101885_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-101885_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-101885_JAY_ANNOTATION.png,"[5, 13]",0.79
+regenerated_new/8/H/case-101885_JAY_ANNOTATION.png,"[13, 8]",0.8
+regenerated_new/10/H/case-101885_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-101885_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/12/H/case-101885_JAY_ANNOTATION.png,"[12, 13]",0.88
+regenerated_new/13/H/case-101885_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/1/H/case-101937_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-101937_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-101937_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-101937_JAY_ANNOTATION.png,"[5,3]",0.62
+regenerated_new/6/H/case-101937_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/10/H/case-101937_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-101937_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-101937_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-101937_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-101937_JAY_ANNOTATION.png,"[14, 13]",0.88
+regenerated_new/1/H/case-101940_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-101940_JAY_ANNOTATION.png,"[2,12]",0.71
+regenerated_new/4/H/case-101940_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-101940_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-101940_JAY_ANNOTATION.png,"[6,14]",0.71
+regenerated_new/10/H/case-101940_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-101940_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/12/H/case-101940_JAY_ANNOTATION.png,"[12, 4]",0.79
+regenerated_new/13/H/case-101940_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-101940_JAY_ANNOTATION.png,"[14, 9]",0.79
+regenerated_new/1/H/case-101982_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-101982_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-101982_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-101982_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-101982_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/10/H/case-101982_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-101982_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/12/H/case-101982_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-101982_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-101982_JAY_ANNOTATION.png,"[14,11]",0.79
+regenerated_new/1/H/case-102010_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-102010_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-102010_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-102010_JAY_ANNOTATION.png,"[5, 13]",0.8
+regenerated_new/7/H/case-102010_JAY_ANNOTATION.png,"[13, 7]",0.79
+regenerated_new/10/H/case-102010_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-102010_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-102010_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-102010_JAY_ANNOTATION.png,"[13, 7]",0.8
+regenerated_new/14/H/case-102010_JAY_ANNOTATION.png,"[14, 3]",0.79
+regenerated_new/1/H/case-102041_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-102041_JAY_ANNOTATION.png,"[2,12]",0.71
+regenerated_new/4/H/case-102041_JAY_ANNOTATION.png,"[4,12]",0.7
+regenerated_new/5/H/case-102041_JAY_ANNOTATION.png,"[5,13]",0.7
+regenerated_new/10/H/case-102041_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-102041_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/12/H/case-102041_JAY_ANNOTATION.png,"[11, 12]",0.88
+regenerated_new/13/H/case-102041_JAY_ANNOTATION.png,"[13, 11]",0.88
+regenerated_new/14/H/case-102041_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-102093_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-102093_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-102093_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/6/H/case-102093_JAY_ANNOTATION.png,"[6,14]",0.71
+regenerated_new/10/H/case-102093_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-102093_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/12/H/case-102093_JAY_ANNOTATION.png,"[12, 14]",0.88
+regenerated_new/13/H/case-102093_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-102093_JAY_ANNOTATION.png,"[14,11]",0.79
+regenerated_new/1/H/case-102157_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-102157_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-102157_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-102157_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-102157_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/10/H/case-102157_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-102157_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-102157_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-102157_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/14/H/case-102157_JAY_ANNOTATION.png,"[14, 13]",0.88
+regenerated_new/1/H/case-102183_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-102183_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/5/H/case-102183_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-102183_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/10/H/case-102183_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-102183_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-102183_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-102183_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-102183_JAY_ANNOTATION.png,"[14, 13]",0.88
+regenerated_new/1/H/case-102224_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-102224_JAY_ANNOTATION.png,"[2,10]",0.71
+regenerated_new/4/H/case-102224_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/10/H/case-102224_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-102224_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-102224_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-102224_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-102224_JAY_ANNOTATION.png,"[11, 14]",0.88
+regenerated_new/1/H/case-102308_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-102308_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-102308_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/6/H/case-102308_JAY_ANNOTATION.png,"[6,12]",0.71
+regenerated_new/10/H/case-102308_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-102308_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-102308_JAY_ANNOTATION.png,"[12, 4]",0.79
+regenerated_new/13/H/case-102308_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/14/H/case-102308_JAY_ANNOTATION.png,"[14,11]",0.79
+regenerated_new/1/H/case-102321_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-102321_JAY_ANNOTATION.png,"[2,10]",0.71
+regenerated_new/4/H/case-102321_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/6/H/case-102321_JAY_ANNOTATION.png,"[6,14]",0.71
+regenerated_new/7/H/case-102321_JAY_ANNOTATION.png,"[13, 7]",0.79
+regenerated_new/10/H/case-102321_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-102321_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-102321_JAY_ANNOTATION.png,"[12, 13]",0.88
+regenerated_new/1/H/case-102367_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-102367_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-102367_JAY_ANNOTATION.png,"[4,11]",0.71
+regenerated_new/5/H/case-102367_JAY_ANNOTATION.png,"[11, 5]",0.8
+regenerated_new/6/H/case-102367_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/10/H/case-102367_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-102367_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-102367_JAY_ANNOTATION.png,"[12, 14]",0.89
+regenerated_new/13/H/case-102367_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-102367_JAY_ANNOTATION.png,"[14, 3]",0.8
+regenerated_new/1/H/case-102388_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-102388_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-102388_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-102388_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/6/H/case-102388_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/7/H/case-102388_JAY_ANNOTATION.png,"[1, 7]",0.71
+regenerated_new/10/H/case-102388_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-102388_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-102388_JAY_ANNOTATION.png,"[12, 4]",0.79
+regenerated_new/13/H/case-102388_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/14/H/case-102388_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-104754_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-104754_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-104754_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-104754_JAY_ANNOTATION.png,"[5,3]",0.62
+regenerated_new/10/H/case-104754_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-104754_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-104754_JAY_ANNOTATION.png,"[12, 11]",0.88
+regenerated_new/13/H/case-104754_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/14/H/case-104754_JAY_ANNOTATION.png,"[14,11]",0.8
+regenerated_new/1/H/case-104780_JAY_ANNOTATION.png,"[1, 2]",0.71
+regenerated_new/2/H/case-104780_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/10/H/case-104780_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-104780_JAY_ANNOTATION.png,"[11, 10]",0.88
+regenerated_new/13/H/case-104780_JAY_ANNOTATION.png,"[5, 13]",0.79
+regenerated_new/14/H/case-104780_JAY_ANNOTATION.png,"[14,11]",0.8
+regenerated_new/1/H/case-104842_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-104842_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-104842_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/6/H/case-104842_JAY_ANNOTATION.png,"[6,12]",0.71
+regenerated_new/10/H/case-104842_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-104842_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/12/H/case-104842_JAY_ANNOTATION.png,"[12, 4]",0.8
+regenerated_new/13/H/case-104842_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-104842_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-104941_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-104941_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-104941_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/6/H/case-104941_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/7/H/case-104941_JAY_ANNOTATION.png,"[13, 7]",0.79
+regenerated_new/9/H/case-104941_JAY_ANNOTATION.png,"[12, 9]",0.8
+regenerated_new/10/H/case-104941_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-104941_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-104941_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-104941_JAY_ANNOTATION.png,"[13, 7]",0.79
+regenerated_new/14/H/case-104941_JAY_ANNOTATION.png,"[14,10]",0.8
+regenerated_new/1/H/case-104979_JAY_ANNOTATION.png,"[1,10]",0.71
+regenerated_new/2/H/case-104979_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-104979_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-104979_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/6/H/case-104979_JAY_ANNOTATION.png,"[6,11]",0.71
+regenerated_new/9/H/case-104979_JAY_ANNOTATION.png,"[13, 9]",0.8
+regenerated_new/10/H/case-104979_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-104979_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-104979_JAY_ANNOTATION.png,"[12, 4]",0.8
+regenerated_new/13/H/case-104979_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-104979_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-104990_JAY_ANNOTATION.png,"[1, 1]",0.71
+regenerated_new/2/H/case-104990_JAY_ANNOTATION.png,"[2,12]",0.71
+regenerated_new/10/H/case-104990_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-104990_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/13/H/case-104990_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-104990_JAY_ANNOTATION.png,"[14,10]",0.79
+regenerated_new/1/H/case-105035_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-105035_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-105035_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-105035_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-105035_JAY_ANNOTATION.png,"[6,12]",0.71
+regenerated_new/7/H/case-105035_JAY_ANNOTATION.png,"[14, 7]",0.79
+regenerated_new/10/H/case-105035_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-105035_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/12/H/case-105035_JAY_ANNOTATION.png,"[12, 11]",0.88
+regenerated_new/13/H/case-105035_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-105035_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-105051_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-105051_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-105051_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-105051_JAY_ANNOTATION.png,"[5, 9]",0.71
+regenerated_new/6/H/case-105051_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/7/H/case-105051_JAY_ANNOTATION.png,"[13, 7]",0.8
+regenerated_new/10/H/case-105051_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-105051_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-105051_JAY_ANNOTATION.png,"[12, 11]",0.88
+regenerated_new/14/H/case-105051_JAY_ANNOTATION.png,"[14, 9]",0.8
+regenerated_new/1/H/case-105171_JAY_ANNOTATION.png,"[1, 2]",0.71
+regenerated_new/2/H/case-105171_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-105171_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-105171_JAY_ANNOTATION.png,"[5, 13]",0.8
+regenerated_new/6/H/case-105171_JAY_ANNOTATION.png,"[6,14]",0.71
+regenerated_new/10/H/case-105171_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-105171_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-105171_JAY_ANNOTATION.png,"[12, 11]",0.88
+regenerated_new/13/H/case-105171_JAY_ANNOTATION.png,"[9,13]",0.71
+regenerated_new/1/H/case-105177_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-105177_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-105177_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-105177_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/10/H/case-105177_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-105177_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-105177_JAY_ANNOTATION.png,"[12, 13]",0.88
+regenerated_new/13/H/case-105177_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-105177_JAY_ANNOTATION.png,"[14, 3]",0.8
+regenerated_new/1/H/case-105234_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-105234_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/3/H/case-105234_JAY_ANNOTATION.png,"[2,3]",0.62
+regenerated_new/4/H/case-105234_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-105234_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/6/H/case-105234_JAY_ANNOTATION.png,"[6,2]",0.62
+regenerated_new/9/H/case-105234_JAY_ANNOTATION.png,"[13, 9]",0.8
+regenerated_new/10/H/case-105234_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-105234_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/13/H/case-105234_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-105234_JAY_ANNOTATION.png,"[14, 1]",0.8
+regenerated_new/1/H/case-105246_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-105246_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/6/H/case-105246_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/9/H/case-105246_JAY_ANNOTATION.png,"[9,14]",0.71
+regenerated_new/10/H/case-105246_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-105246_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/14/H/case-105246_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-105257_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-105257_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-105257_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-105257_JAY_ANNOTATION.png,"[5, 3]",0.71
+regenerated_new/6/H/case-105257_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/10/H/case-105257_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-105257_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/12/H/case-105257_JAY_ANNOTATION.png,"[12, 11]",0.88
+regenerated_new/13/H/case-105257_JAY_ANNOTATION.png,"[13, 9]",0.8
+regenerated_new/14/H/case-105257_JAY_ANNOTATION.png,"[14, 10]",0.88
+regenerated_new/1/H/case-105288_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-105288_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-105288_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-105288_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/10/H/case-105288_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-105288_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-105288_JAY_ANNOTATION.png,"[12, 14]",0.88
+regenerated_new/13/H/case-105288_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/1/H/case-105318_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-105318_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/10/H/case-105318_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-105318_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-105318_JAY_ANNOTATION.png,"[11,12]",0.79
+regenerated_new/13/H/case-105318_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-105318_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-105476_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-105476_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-105476_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-105476_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-105476_JAY_ANNOTATION.png,"[6,12]",0.71
+regenerated_new/9/H/case-105476_JAY_ANNOTATION.png,"[14, 9]",0.79
+regenerated_new/10/H/case-105476_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-105476_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-105476_JAY_ANNOTATION.png,"[12, 4]",0.79
+regenerated_new/13/H/case-105476_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-105476_JAY_ANNOTATION.png,"[14,11]",0.79
+regenerated_new/1/H/case-105567_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-105567_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-105567_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-105567_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/10/H/case-105567_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-105567_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-105567_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-105567_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/1/H/case-105579_JAY_ANNOTATION.png,"[1, 1]",0.71
+regenerated_new/2/H/case-105579_JAY_ANNOTATION.png,"[2,12]",0.71
+regenerated_new/4/H/case-105579_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-105579_JAY_ANNOTATION.png,"[5, 13]",0.79
+regenerated_new/6/H/case-105579_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/10/H/case-105579_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-105579_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-105579_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-105579_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-105579_JAY_ANNOTATION.png,"[14, 3]",0.79
+regenerated_new/1/H/case-105586_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-105586_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/3/H/case-105586_JAY_ANNOTATION.png,"[2,3]",0.62
+regenerated_new/4/H/case-105586_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-105586_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-105586_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/7/H/case-105586_JAY_ANNOTATION.png,"[13, 7]",0.79
+regenerated_new/10/H/case-105586_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-105586_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-105586_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-105586_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/14/H/case-105586_JAY_ANNOTATION.png,"[14,11]",0.8
+regenerated_new/1/H/case-105592_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-105592_JAY_ANNOTATION.png,"[2,12]",0.71
+regenerated_new/4/H/case-105592_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-105592_JAY_ANNOTATION.png,"[5, 13]",0.8
+regenerated_new/10/H/case-105592_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-105592_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-105592_JAY_ANNOTATION.png,"[12, 4]",0.8
+regenerated_new/13/H/case-105592_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-105592_JAY_ANNOTATION.png,"[14,11]",0.8
+regenerated_new/1/H/case-105597_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-105597_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-105597_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-105597_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/7/H/case-105597_JAY_ANNOTATION.png,"[3, 7]",0.71
+regenerated_new/10/H/case-105597_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-105597_JAY_ANNOTATION.png,"[11, 12]",0.88
+regenerated_new/12/H/case-105597_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-105597_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-105597_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-105602_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-105602_JAY_ANNOTATION.png,"[2,12]",0.71
+regenerated_new/4/H/case-105602_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-105602_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/10/H/case-105602_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-105602_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-105602_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-105602_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/1/H/case-105681_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-105681_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-105681_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-105681_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-105681_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/10/H/case-105681_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-105681_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-105681_JAY_ANNOTATION.png,"[12, 13]",0.88
+regenerated_new/13/H/case-105681_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-105681_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-105704_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-105704_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-105704_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-105704_JAY_ANNOTATION.png,"[5, 13]",0.79
+regenerated_new/7/H/case-105704_JAY_ANNOTATION.png,"[3, 7]",0.71
+regenerated_new/9/H/case-105704_JAY_ANNOTATION.png,"[13, 9]",0.8
+regenerated_new/10/H/case-105704_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-105704_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-105704_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-105704_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-105704_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-105817_JAY_ANNOTATION.png,"[1, 2]",0.71
+regenerated_new/2/H/case-105817_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/5/H/case-105817_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-105817_JAY_ANNOTATION.png,"[6,12]",0.71
+regenerated_new/10/H/case-105817_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-105817_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-105817_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-105817_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-105817_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-105839_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-105839_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-105839_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-105839_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-105839_JAY_ANNOTATION.png,"[6,12]",0.71
+regenerated_new/9/H/case-105839_JAY_ANNOTATION.png,"[9,13]",0.71
+regenerated_new/10/H/case-105839_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-105839_JAY_ANNOTATION.png,"[11, 10]",0.88
+regenerated_new/12/H/case-105839_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-105839_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/14/H/case-105839_JAY_ANNOTATION.png,"[14, 13]",0.88
+regenerated_new/1/H/case-105862_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-105862_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/10/H/case-105862_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-105862_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/13/H/case-105862_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-105862_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-105915_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-105915_JAY_ANNOTATION.png,"[2,12]",0.71
+regenerated_new/5/H/case-105915_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/7/H/case-105915_JAY_ANNOTATION.png,"[13, 7]",0.79
+regenerated_new/10/H/case-105915_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-105915_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/14/H/case-105915_JAY_ANNOTATION.png,"[14,11]",0.8
+regenerated_new/1/H/case-106012_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-106012_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-106012_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-106012_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/6/H/case-106012_JAY_ANNOTATION.png,"[6,12]",0.71
+regenerated_new/10/H/case-106012_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-106012_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-106012_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-106012_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-106012_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-106016_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-106016_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-106016_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/10/H/case-106016_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-106016_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-106016_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-106016_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-106016_JAY_ANNOTATION.png,"[14,10]",0.8
+regenerated_new/1/H/case-106081_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-106081_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-106081_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-106081_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/6/H/case-106081_JAY_ANNOTATION.png,"[6,1]",0.62
+regenerated_new/10/H/case-106081_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-106081_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-106081_JAY_ANNOTATION.png,"[12, 14]",0.88
+regenerated_new/13/H/case-106081_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-106081_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-106101_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-106101_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-106101_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-106101_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-106101_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/7/H/case-106101_JAY_ANNOTATION.png,"[3, 7]",0.71
+regenerated_new/10/H/case-106101_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-106101_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-106101_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-106101_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/1/H/case-106127_JAY_ANNOTATION.png,"[1, 2]",0.71
+regenerated_new/2/H/case-106127_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/3/H/case-106127_JAY_ANNOTATION.png,"[2,3]",0.62
+regenerated_new/5/H/case-106127_JAY_ANNOTATION.png,"[5, 13]",0.79
+regenerated_new/10/H/case-106127_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-106127_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-106127_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-106127_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-106127_JAY_ANNOTATION.png,"[14,11]",0.8
+regenerated_new/1/H/case-106139_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-106139_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-106139_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-106139_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-106139_JAY_ANNOTATION.png,"[6,14]",0.71
+regenerated_new/7/H/case-106139_JAY_ANNOTATION.png,"[13, 7]",0.8
+regenerated_new/10/H/case-106139_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-106139_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-106139_JAY_ANNOTATION.png,"[12, 4]",0.8
+regenerated_new/13/H/case-106139_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/1/H/case-106141_JAY_ANNOTATION.png,"[1, 2]",0.71
+regenerated_new/2/H/case-106141_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-106141_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/6/H/case-106141_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/10/H/case-106141_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-106141_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-106141_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/14/H/case-106141_JAY_ANNOTATION.png,"[14, 3]",0.79
+regenerated_new/1/H/case-106157_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-106157_JAY_ANNOTATION.png,"[2,14]",0.71
+regenerated_new/4/H/case-106157_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-106157_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-106157_JAY_ANNOTATION.png,"[6,14]",0.71
+regenerated_new/7/H/case-106157_JAY_ANNOTATION.png,"[13, 7]",0.79
+regenerated_new/10/H/case-106157_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-106157_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/12/H/case-106157_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-106157_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-106157_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-106172_JAY_ANNOTATION.png,"[1, 2]",0.71
+regenerated_new/2/H/case-106172_JAY_ANNOTATION.png,"[2,12]",0.71
+regenerated_new/3/H/case-106172_JAY_ANNOTATION.png,"[2,3]",0.62
+regenerated_new/4/H/case-106172_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/10/H/case-106172_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-106172_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/12/H/case-106172_JAY_ANNOTATION.png,"[11,12]",0.8
+regenerated_new/13/H/case-106172_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-106172_JAY_ANNOTATION.png,"[14,11]",1.29
+regenerated_new/1/H/case-106301_JAY_ANNOTATION.png,"[1, 1]",0.71
+regenerated_new/2/H/case-106301_JAY_ANNOTATION.png,"[2,11]",0.7
+regenerated_new/4/H/case-106301_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-106301_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/10/H/case-106301_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-106301_JAY_ANNOTATION.png,"[11, 10]",0.88
+regenerated_new/12/H/case-106301_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-106301_JAY_ANNOTATION.png,"[13, 9]",0.8
+regenerated_new/14/H/case-106301_JAY_ANNOTATION.png,"[14,10]",0.79
+regenerated_new/1/H/case-106371_JAY_ANNOTATION.png,"[1, 1]",0.71
+regenerated_new/2/H/case-106371_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/6/H/case-106371_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/10/H/case-106371_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-106371_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-106371_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-106371_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/1/H/case-106374_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-106374_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-106374_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-106374_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-106374_JAY_ANNOTATION.png,"[6,12]",0.71
+regenerated_new/10/H/case-106374_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-106374_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-106374_JAY_ANNOTATION.png,"[12, 14]",0.88
+regenerated_new/13/H/case-106374_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-106374_JAY_ANNOTATION.png,"[14, 10]",0.88
+regenerated_new/1/H/case-106456_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-106456_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/10/H/case-106456_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-106456_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-106456_JAY_ANNOTATION.png,"[11, 12]",0.89
+regenerated_new/14/H/case-106456_JAY_ANNOTATION.png,"[14,10]",0.79
+regenerated_new/1/H/case-106464_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-106464_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-106464_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-106464_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/7/H/case-106464_JAY_ANNOTATION.png,"[13, 7]",0.79
+regenerated_new/10/H/case-106464_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-106464_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-106464_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-106464_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-106464_JAY_ANNOTATION.png,"[14, 10]",0.88
+regenerated_new/1/H/case-106541_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-106541_JAY_ANNOTATION.png,"[2,14]",0.71
+regenerated_new/4/H/case-106541_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-106541_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-106541_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/10/H/case-106541_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-106541_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-106541_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-106541_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/14/H/case-106541_JAY_ANNOTATION.png,"[14,11]",0.79
+regenerated_new/1/H/case-106569_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-106569_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-106569_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/6/H/case-106569_JAY_ANNOTATION.png,"[6,10]",0.71
+regenerated_new/7/H/case-106569_JAY_ANNOTATION.png,"[13, 7]",0.79
+regenerated_new/10/H/case-106569_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-106569_JAY_ANNOTATION.png,"[11,12]",0.79
+regenerated_new/12/H/case-106569_JAY_ANNOTATION.png,"[12, 4]",0.79
+regenerated_new/13/H/case-106569_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/14/H/case-106569_JAY_ANNOTATION.png,"[14, 3]",0.79
+regenerated_new/1/H/case-106811_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-106811_JAY_ANNOTATION.png,"[2,14]",0.71
+regenerated_new/5/H/case-106811_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/6/H/case-106811_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/10/H/case-106811_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-106811_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/13/H/case-106811_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/14/H/case-106811_JAY_ANNOTATION.png,"[14, 6]",0.8
+regenerated_new/1/H/case-106835_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-106835_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-106835_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-106835_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-106835_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/7/H/case-106835_JAY_ANNOTATION.png,"[14, 7]",0.8
+regenerated_new/10/H/case-106835_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-106835_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-106835_JAY_ANNOTATION.png,"[12, 13]",0.88
+regenerated_new/13/H/case-106835_JAY_ANNOTATION.png,"[13, 7]",0.8
+regenerated_new/14/H/case-106835_JAY_ANNOTATION.png,"[14,11]",0.79
+regenerated_new/1/H/case-106856_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-106856_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/5/H/case-106856_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/7/H/case-106856_JAY_ANNOTATION.png,"[13, 7]",0.79
+regenerated_new/10/H/case-106856_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-106856_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/12/H/case-106856_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-106856_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-106856_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-106882_JAY_ANNOTATION.png,"[1, 2]",0.71
+regenerated_new/2/H/case-106882_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-106882_JAY_ANNOTATION.png,"[4,13]",0.71
+regenerated_new/5/H/case-106882_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/10/H/case-106882_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-106882_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-106882_JAY_ANNOTATION.png,"[11, 12]",0.88
+regenerated_new/13/H/case-106882_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-106882_JAY_ANNOTATION.png,"[14,11]",0.79
+regenerated_new/1/H/case-106963_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-106963_JAY_ANNOTATION.png,"[2,10]",0.71
+regenerated_new/5/H/case-106963_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/9/H/case-106963_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/10/H/case-106963_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-106963_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-106963_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-106963_JAY_ANNOTATION.png,"[9,13]",0.71
+regenerated_new/14/H/case-106963_JAY_ANNOTATION.png,"[14,11]",0.8
+regenerated_new/1/H/case-106973_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-106973_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/10/H/case-106973_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-106973_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-106973_JAY_ANNOTATION.png,"[12, 4]",0.8
+regenerated_new/13/H/case-106973_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/14/H/case-106973_JAY_ANNOTATION.png,"[14, 9]",0.79
+regenerated_new/1/H/case-106991_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-106991_JAY_ANNOTATION.png,"[2,10]",0.71
+regenerated_new/4/H/case-106991_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/10/H/case-106991_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-106991_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-106991_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-106991_JAY_ANNOTATION.png,"[8, 13]",0.79
+regenerated_new/14/H/case-106991_JAY_ANNOTATION.png,"[14,11]",0.79
+regenerated_new/1/H/case-107068_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-107068_JAY_ANNOTATION.png,"[2,14]",0.71
+regenerated_new/4/H/case-107068_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/6/H/case-107068_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/10/H/case-107068_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-107068_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/12/H/case-107068_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-107068_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-107068_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-107184_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-107184_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-107184_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-107184_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/7/H/case-107184_JAY_ANNOTATION.png,"[7, 13]",0.79
+regenerated_new/10/H/case-107184_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-107184_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-107184_JAY_ANNOTATION.png,"[12, 11]",0.88
+regenerated_new/13/H/case-107184_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-107184_JAY_ANNOTATION.png,"[14,11]",0.79
+regenerated_new/1/H/case-107267_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-107267_JAY_ANNOTATION.png,"[2,12]",0.71
+regenerated_new/3/H/case-107267_JAY_ANNOTATION.png,"[3,10]",0.71
+regenerated_new/4/H/case-107267_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-107267_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/8/H/case-107267_JAY_ANNOTATION.png,"[8, 12]",0.8
+regenerated_new/10/H/case-107267_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-107267_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-107267_JAY_ANNOTATION.png,"[12, 4]",0.8
+regenerated_new/13/H/case-107267_JAY_ANNOTATION.png,"[4,13]",0.71
+regenerated_new/14/H/case-107267_JAY_ANNOTATION.png,"[14,1]",0.71
+regenerated_new/1/H/case-107296_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-107296_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-107296_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-107296_JAY_ANNOTATION.png,"[5, 13]",0.79
+regenerated_new/6/H/case-107296_JAY_ANNOTATION.png,"[6,1]",0.62
+regenerated_new/10/H/case-107296_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-107296_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/13/H/case-107296_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-107296_JAY_ANNOTATION.png,"[14,10]",0.8
+regenerated_new/1/H/case-110146_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-110146_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-110146_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-110146_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/6/H/case-110146_JAY_ANNOTATION.png,"[6,12]",0.71
+regenerated_new/10/H/case-110146_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-110146_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-110146_JAY_ANNOTATION.png,"[12, 4]",0.79
+regenerated_new/13/H/case-110146_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-110146_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-110184_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-110184_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-110184_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-110184_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/6/H/case-110184_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/7/H/case-110184_JAY_ANNOTATION.png,"[13, 7]",0.8
+regenerated_new/10/H/case-110184_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-110184_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-110184_JAY_ANNOTATION.png,"[12, 4]",0.79
+regenerated_new/13/H/case-110184_JAY_ANNOTATION.png,"[13, 9]",0.8
+regenerated_new/14/H/case-110184_JAY_ANNOTATION.png,"[14, 1]",0.79
+regenerated_new/1/H/case-110307_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-110307_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/10/H/case-110307_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-110307_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-110307_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/1/H/case-110324_JAY_ANNOTATION.png,"[1, 1]",0.71
+regenerated_new/2/H/case-110324_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/5/H/case-110324_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/10/H/case-110324_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-110324_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/12/H/case-110324_JAY_ANNOTATION.png,"[12, 14]",0.88
+regenerated_new/13/H/case-110324_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/1/H/case-110378_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-110378_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/5/H/case-110378_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-110378_JAY_ANNOTATION.png,"[6,2]",0.62
+regenerated_new/10/H/case-110378_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-110378_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-110378_JAY_ANNOTATION.png,"[12, 13]",0.88
+regenerated_new/13/H/case-110378_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-110378_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-110382_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-110382_JAY_ANNOTATION.png,"[2,12]",0.71
+regenerated_new/4/H/case-110382_JAY_ANNOTATION.png,"[4, 12]",0.79
+regenerated_new/6/H/case-110382_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/9/H/case-110382_JAY_ANNOTATION.png,"[14, 9]",0.79
+regenerated_new/10/H/case-110382_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-110382_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-110382_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-110382_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/14/H/case-110382_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-110393_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-110393_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-110393_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/10/H/case-110393_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-110393_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-110393_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-110393_JAY_ANNOTATION.png,"[13, 11]",0.88
+regenerated_new/14/H/case-110393_JAY_ANNOTATION.png,"[14,11]",0.79
+regenerated_new/1/H/case-110447_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-110447_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-110447_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-110447_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/6/H/case-110447_JAY_ANNOTATION.png,"[6,14]",0.71
+regenerated_new/10/H/case-110447_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-110447_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-110447_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-110447_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-110447_JAY_ANNOTATION.png,"[14,10]",0.79
+regenerated_new/1/H/case-110519_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-110519_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-110519_JAY_ANNOTATION.png,"[4,11]",0.71
+regenerated_new/5/H/case-110519_JAY_ANNOTATION.png,"[5, 13]",0.8
+regenerated_new/10/H/case-110519_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-110519_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-110519_JAY_ANNOTATION.png,"[12,11]",0.8
+regenerated_new/13/H/case-110519_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/1/H/case-110588_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-110588_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-110588_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-110588_JAY_ANNOTATION.png,"[5,3]",0.62
+regenerated_new/6/H/case-110588_JAY_ANNOTATION.png,"[6,12]",0.71
+regenerated_new/7/H/case-110588_JAY_ANNOTATION.png,"[13, 7]",0.8
+regenerated_new/10/H/case-110588_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-110588_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-110588_JAY_ANNOTATION.png,"[12, 3]",0.8
+regenerated_new/13/H/case-110588_JAY_ANNOTATION.png,"[13, 9]",0.8
+regenerated_new/14/H/case-110588_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-110636_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-110636_JAY_ANNOTATION.png,"[2,12]",0.71
+regenerated_new/4/H/case-110636_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-110636_JAY_ANNOTATION.png,"[5,13]",0.72
+regenerated_new/6/H/case-110636_JAY_ANNOTATION.png,"[6,12]",0.71
+regenerated_new/10/H/case-110636_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-110636_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-110636_JAY_ANNOTATION.png,"[12, 4]",0.8
+regenerated_new/13/H/case-110636_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-110636_JAY_ANNOTATION.png,"[14, 10]",0.88
+regenerated_new/1/H/case-110640_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-110640_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-110640_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-110640_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/10/H/case-110640_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-110640_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-110640_JAY_ANNOTATION.png,"[12, 11]",0.88
+regenerated_new/13/H/case-110640_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-110640_JAY_ANNOTATION.png,"[14,11]",0.8
+regenerated_new/1/H/case-110649_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-110649_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-110649_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-110649_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/6/H/case-110649_JAY_ANNOTATION.png,"[6,12]",0.71
+regenerated_new/7/H/case-110649_JAY_ANNOTATION.png,"[1,7]",0.62
+regenerated_new/10/H/case-110649_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-110649_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-110649_JAY_ANNOTATION.png,"[12,11]",0.8
+regenerated_new/13/H/case-110649_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/1/H/case-110664_JAY_ANNOTATION.png,"[1, 1]",0.71
+regenerated_new/2/H/case-110664_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/3/H/case-110664_JAY_ANNOTATION.png,"[2,3]",0.62
+regenerated_new/5/H/case-110664_JAY_ANNOTATION.png,"[5, 13]",0.8
+regenerated_new/7/H/case-110664_JAY_ANNOTATION.png,"[7, 13]",0.8
+regenerated_new/10/H/case-110664_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-110664_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-110664_JAY_ANNOTATION.png,"[12,11]",0.8
+regenerated_new/13/H/case-110664_JAY_ANNOTATION.png,"[13, 9]",0.8
+regenerated_new/14/H/case-110664_JAY_ANNOTATION.png,"[14, 9]",0.8
+regenerated_new/1/H/case-110831_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-110831_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-110831_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-110831_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/9/H/case-110831_JAY_ANNOTATION.png,"[14, 9]",0.8
+regenerated_new/10/H/case-110831_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-110831_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-110831_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-110831_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-110831_JAY_ANNOTATION.png,"[14, 9]",0.8
+regenerated_new/1/H/case-110870_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-110870_JAY_ANNOTATION.png,"[2,12]",0.71
+regenerated_new/5/H/case-110870_JAY_ANNOTATION.png,"[5, 13]",0.8
+regenerated_new/6/H/case-110870_JAY_ANNOTATION.png,"[6,1]",0.62
+regenerated_new/10/H/case-110870_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-110870_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/12/H/case-110870_JAY_ANNOTATION.png,"[12,11]",0.8
+regenerated_new/13/H/case-110870_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-110870_JAY_ANNOTATION.png,"[14,11]",0.79
+regenerated_new/1/H/case-111040_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-111040_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-111040_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-111040_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/10/H/case-111040_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-111040_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/12/H/case-111040_JAY_ANNOTATION.png,"[12, 4]",0.8
+regenerated_new/13/H/case-111040_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-111040_JAY_ANNOTATION.png,"[14, 10]",0.88
+regenerated_new/1/H/case-111057_JAY_ANNOTATION.png,"[1, 2]",0.71
+regenerated_new/2/H/case-111057_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-111057_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-111057_JAY_ANNOTATION.png,"[5, 13]",0.8
+regenerated_new/6/H/case-111057_JAY_ANNOTATION.png,"[6,10]",0.71
+regenerated_new/10/H/case-111057_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-111057_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-111057_JAY_ANNOTATION.png,"[12, 6]",0.8
+regenerated_new/13/H/case-111057_JAY_ANNOTATION.png,"[9,13]",0.71
+regenerated_new/14/H/case-111057_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-111159_JAY_ANNOTATION.png,"[1, 1]",0.71
+regenerated_new/2/H/case-111159_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-111159_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-111159_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-111159_JAY_ANNOTATION.png,"[6,8]",0.62
+regenerated_new/10/H/case-111159_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-111159_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-111159_JAY_ANNOTATION.png,"[12, 13]",0.89
+regenerated_new/13/H/case-111159_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-111159_JAY_ANNOTATION.png,"[14,11]",0.8
+regenerated_new/1/H/case-111162_JAY_ANNOTATION.png,"[1, 2]",0.71
+regenerated_new/2/H/case-111162_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-111162_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-111162_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-111162_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/9/H/case-111162_JAY_ANNOTATION.png,"[13, 9]",0.8
+regenerated_new/10/H/case-111162_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-111162_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-111162_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-111162_JAY_ANNOTATION.png,"[13, 9]",0.8
+regenerated_new/14/H/case-111162_JAY_ANNOTATION.png,"[14, 13]",0.89
+regenerated_new/1/H/case-111165_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-111165_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-111165_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/6/H/case-111165_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/10/H/case-111165_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-111165_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/13/H/case-111165_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-111165_JAY_ANNOTATION.png,"[14, 10]",0.89
+regenerated_new/1/H/case-111178_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-111178_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/5/H/case-111178_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/6/H/case-111178_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/7/H/case-111178_JAY_ANNOTATION.png,"[13, 7]",0.8
+regenerated_new/10/H/case-111178_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-111178_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/13/H/case-111178_JAY_ANNOTATION.png,"[13,9]",0.71
+regenerated_new/14/H/case-111178_JAY_ANNOTATION.png,"[14, 11]",0.89
+regenerated_new/1/H/case-111246_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-111246_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-111246_JAY_ANNOTATION.png,"[4,12]",0.7
+regenerated_new/5/H/case-111246_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/6/H/case-111246_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/10/H/case-111246_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-111246_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-111246_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-111246_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-111246_JAY_ANNOTATION.png,"[14, 3]",0.8
+regenerated_new/1/H/case-111273_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-111273_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-111273_JAY_ANNOTATION.png,"[4, 12]",0.79
+regenerated_new/10/H/case-111273_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-111273_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-111273_JAY_ANNOTATION.png,"[12, 14]",0.88
+regenerated_new/13/H/case-111273_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-111273_JAY_ANNOTATION.png,"[14,11]",0.79
+regenerated_new/1/H/case-111359_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-111359_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-111359_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-111359_JAY_ANNOTATION.png,"[5, 9]",0.7
+regenerated_new/7/H/case-111359_JAY_ANNOTATION.png,"[1, 7]",0.7
+regenerated_new/9/H/case-111359_JAY_ANNOTATION.png,"[14, 9]",0.79
+regenerated_new/10/H/case-111359_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-111359_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-111359_JAY_ANNOTATION.png,"[12, 4]",0.79
+regenerated_new/13/H/case-111359_JAY_ANNOTATION.png,"[4,13]",0.7
+regenerated_new/14/H/case-111359_JAY_ANNOTATION.png,"[14, 6]",0.79
+regenerated_new/1/H/case-111405_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-111405_JAY_ANNOTATION.png,"[2,11]",0.7
+regenerated_new/4/H/case-111405_JAY_ANNOTATION.png,"[4,12]",0.69
+regenerated_new/5/H/case-111405_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-111405_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/10/H/case-111405_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-111405_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-111405_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-111405_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/14/H/case-111405_JAY_ANNOTATION.png,"[14, 9]",0.79
+regenerated_new/1/H/case-111446_JAY_ANNOTATION.png,"[1, 2]",0.71
+regenerated_new/2/H/case-111446_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-111446_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/6/H/case-111446_JAY_ANNOTATION.png,"[6,12]",0.71
+regenerated_new/7/H/case-111446_JAY_ANNOTATION.png,"[13, 7]",0.79
+regenerated_new/10/H/case-111446_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-111446_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/13/H/case-111446_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-111446_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-111546_JAY_ANNOTATION.png,"[1, 3]",0.71
+regenerated_new/2/H/case-111546_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-111546_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/6/H/case-111546_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/7/H/case-111546_JAY_ANNOTATION.png,"[13, 7]",0.8
+regenerated_new/10/H/case-111546_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-111546_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-111546_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-111546_JAY_ANNOTATION.png,"[5,13]",0.7
+regenerated_new/14/H/case-111546_JAY_ANNOTATION.png,"[14,13]",0.79
+regenerated_new/1/H/case-111573_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-111573_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-111573_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-111573_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-111573_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/10/H/case-111573_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-111573_JAY_ANNOTATION.png,"[10,11]",1.28
+regenerated_new/12/H/case-111573_JAY_ANNOTATION.png,"[12, 14]",0.88
+regenerated_new/13/H/case-111573_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-111573_JAY_ANNOTATION.png,"[14, 9]",0.79
+regenerated_new/1/H/case-111685_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-111685_JAY_ANNOTATION.png,"[2,12]",0.7
+regenerated_new/4/H/case-111685_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/6/H/case-111685_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/10/H/case-111685_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-111685_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-111685_JAY_ANNOTATION.png,"[12, 11]",0.88
+regenerated_new/13/H/case-111685_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-111685_JAY_ANNOTATION.png,"[14, 9]",0.79
+regenerated_new/1/H/case-111755_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-111755_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-111755_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-111755_JAY_ANNOTATION.png,"[5,13]",0.7
+regenerated_new/10/H/case-111755_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-111755_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-111755_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-111755_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-111755_JAY_ANNOTATION.png,"[14,1]",0.71
+regenerated_new/1/H/case-111791_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-111791_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-111791_JAY_ANNOTATION.png,"[4, 12]",0.79
+regenerated_new/5/H/case-111791_JAY_ANNOTATION.png,"[5,13]",0.7
+regenerated_new/6/H/case-111791_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/10/H/case-111791_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-111791_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-111791_JAY_ANNOTATION.png,"[12, 11]",0.88
+regenerated_new/13/H/case-111791_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-111791_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-111819_JAY_ANNOTATION.png,"[1,10]",0.71
+regenerated_new/2/H/case-111819_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-111819_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-111819_JAY_ANNOTATION.png,"[5, 13]",0.8
+regenerated_new/6/H/case-111819_JAY_ANNOTATION.png,"[1, 6]",0.71
+regenerated_new/10/H/case-111819_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-111819_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-111819_JAY_ANNOTATION.png,"[12, 8]",0.79
+regenerated_new/13/H/case-111819_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-111819_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-111830_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-111830_JAY_ANNOTATION.png,"[2,14]",0.71
+regenerated_new/6/H/case-111830_JAY_ANNOTATION.png,"[6,1]",0.62
+regenerated_new/10/H/case-111830_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-111830_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/13/H/case-111830_JAY_ANNOTATION.png,"[8, 13]",0.8
+regenerated_new/1/H/case-111863_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-111863_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-111863_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/10/H/case-111863_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-111863_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-111863_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-111863_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-111863_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-111923_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-111923_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/5/H/case-111923_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/6/H/case-111923_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/10/H/case-111923_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-111923_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-111923_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-111923_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-111923_JAY_ANNOTATION.png,"[14,10]",0.79
+regenerated_new/1/H/case-112038_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-112038_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-112038_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-112038_JAY_ANNOTATION.png,"[5, 3]",0.71
+regenerated_new/7/H/case-112038_JAY_ANNOTATION.png,"[13, 7]",0.79
+regenerated_new/10/H/case-112038_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-112038_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-112038_JAY_ANNOTATION.png,"[12,11]",0.79
+regenerated_new/13/H/case-112038_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/14/H/case-112038_JAY_ANNOTATION.png,"[14, 13]",0.89
+regenerated_new/1/H/case-112071_JAY_ANNOTATION.png,"[1, 2]",0.71
+regenerated_new/2/H/case-112071_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/5/H/case-112071_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/10/H/case-112071_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-112071_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-112071_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-112071_JAY_ANNOTATION.png,"[9,13]",0.71
+regenerated_new/14/H/case-112071_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-112086_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-112086_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-112086_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-112086_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-112086_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/10/H/case-112086_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-112086_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-112086_JAY_ANNOTATION.png,"[12, 13]",0.88
+regenerated_new/13/H/case-112086_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-112086_JAY_ANNOTATION.png,"[14,11]",0.79
+regenerated_new/1/H/case-112092_JAY_ANNOTATION.png,"[1, 2]",0.71
+regenerated_new/2/H/case-112092_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-112092_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-112092_JAY_ANNOTATION.png,"[5, 13]",0.8
+regenerated_new/6/H/case-112092_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/7/H/case-112092_JAY_ANNOTATION.png,"[1, 7]",0.71
+regenerated_new/10/H/case-112092_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-112092_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-112092_JAY_ANNOTATION.png,"[12, 14]",0.89
+regenerated_new/13/H/case-112092_JAY_ANNOTATION.png,"[13, 9]",0.8
+regenerated_new/14/H/case-112092_JAY_ANNOTATION.png,"[14,11]",0.8
+regenerated_new/1/H/case-112132_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-112132_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-112132_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-112132_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-112132_JAY_ANNOTATION.png,"[2,6]",0.62
+regenerated_new/7/H/case-112132_JAY_ANNOTATION.png,"[3, 7]",0.71
+regenerated_new/10/H/case-112132_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-112132_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-112132_JAY_ANNOTATION.png,"[12, 13]",0.88
+regenerated_new/13/H/case-112132_JAY_ANNOTATION.png,"[13, 5]",0.8
+regenerated_new/14/H/case-112132_JAY_ANNOTATION.png,"[14,11]",0.79
+regenerated_new/1/H/case-112180_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-112180_JAY_ANNOTATION.png,"[2,4]",0.62
+regenerated_new/4/H/case-112180_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-112180_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-112180_JAY_ANNOTATION.png,"[6,12]",0.71
+regenerated_new/10/H/case-112180_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-112180_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/13/H/case-112180_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-112180_JAY_ANNOTATION.png,"[14,10]",0.8
+regenerated_new/1/H/case-112208_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-112208_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-112208_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-112208_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/9/H/case-112208_JAY_ANNOTATION.png,"[14, 9]",0.8
+regenerated_new/10/H/case-112208_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-112208_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-112208_JAY_ANNOTATION.png,"[12, 13]",0.88
+regenerated_new/13/H/case-112208_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-112208_JAY_ANNOTATION.png,"[14, 13]",0.88
+regenerated_new/1/H/case-112234_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-112234_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/3/H/case-112234_JAY_ANNOTATION.png,"[2,3]",0.62
+regenerated_new/4/H/case-112234_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-112234_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-112234_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/10/H/case-112234_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-112234_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/12/H/case-112234_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-112234_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-112234_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-112249_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-112249_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-112249_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/6/H/case-112249_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/8/H/case-112249_JAY_ANNOTATION.png,"[8, 9]",0.71
+regenerated_new/9/H/case-112249_JAY_ANNOTATION.png,"[13, 9]",0.8
+regenerated_new/10/H/case-112249_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-112249_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-112249_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-112249_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/1/H/case-112292_JAY_ANNOTATION.png,"[1, 10]",0.8
+regenerated_new/2/H/case-112292_JAY_ANNOTATION.png,"[2,12]",0.71
+regenerated_new/3/H/case-112292_JAY_ANNOTATION.png,"[2,3]",0.62
+regenerated_new/4/H/case-112292_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/7/H/case-112292_JAY_ANNOTATION.png,"[3, 7]",0.71
+regenerated_new/10/H/case-112292_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-112292_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-112292_JAY_ANNOTATION.png,"[8,12]",0.71
+regenerated_new/13/H/case-112292_JAY_ANNOTATION.png,"[13, 9]",0.8
+regenerated_new/14/H/case-112292_JAY_ANNOTATION.png,"[14,11]",0.8
+regenerated_new/1/H/case-112297_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-112297_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/5/H/case-112297_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-112297_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/10/H/case-112297_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-112297_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-112297_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-112297_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-112297_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-112348_JAY_ANNOTATION.png,"[1, 2]",0.71
+regenerated_new/2/H/case-112348_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-112348_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-112348_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-112348_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/7/H/case-112348_JAY_ANNOTATION.png,"[13, 7]",0.79
+regenerated_new/10/H/case-112348_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-112348_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-112348_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-112348_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-112348_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-112364_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-112364_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-112364_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-112364_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/10/H/case-112364_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-112364_JAY_ANNOTATION.png,"[11,10]",0.8
+regenerated_new/12/H/case-112364_JAY_ANNOTATION.png,"[12, 4]",0.8
+regenerated_new/13/H/case-112364_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-112364_JAY_ANNOTATION.png,"[14,11]",0.79
+regenerated_new/1/H/case-112387_JAY_ANNOTATION.png,"[1,2]",0.62
+regenerated_new/2/H/case-112387_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-112387_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-112387_JAY_ANNOTATION.png,"[5, 13]",0.8
+regenerated_new/6/H/case-112387_JAY_ANNOTATION.png,"[6, 9]",0.71
+regenerated_new/8/H/case-112387_JAY_ANNOTATION.png,"[8, 12]",0.79
+regenerated_new/10/H/case-112387_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-112387_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-112387_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-112387_JAY_ANNOTATION.png,"[13, 7]",0.79
+regenerated_new/14/H/case-112387_JAY_ANNOTATION.png,"[14, 3]",0.79
+regenerated_new/1/H/case-112425_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-112425_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/5/H/case-112425_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-112425_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/10/H/case-112425_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-112425_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-112425_JAY_ANNOTATION.png,"[12, 13]",0.88
+regenerated_new/13/H/case-112425_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/14/H/case-112425_JAY_ANNOTATION.png,"[14,11]",0.79
+regenerated_new/1/H/case-112437_JAY_ANNOTATION.png,"[1, 2]",0.71
+regenerated_new/2/H/case-112437_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-112437_JAY_ANNOTATION.png,"[4, 2]",0.71
+regenerated_new/5/H/case-112437_JAY_ANNOTATION.png,"[5, 13]",0.79
+regenerated_new/10/H/case-112437_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-112437_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/12/H/case-112437_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/13/H/case-112437_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/14/H/case-112437_JAY_ANNOTATION.png,"[14,11]",0.79
+regenerated_new/1/H/case-112453_JAY_ANNOTATION.png,"[1, 10]",1.28
+regenerated_new/2/H/case-112453_JAY_ANNOTATION.png,"[2,12]",0.71
+regenerated_new/4/H/case-112453_JAY_ANNOTATION.png,"[4,12]",0.7
+regenerated_new/5/H/case-112453_JAY_ANNOTATION.png,"[5, 9]",0.71
+regenerated_new/6/H/case-112453_JAY_ANNOTATION.png,"[6,13]",0.71
+regenerated_new/7/H/case-112453_JAY_ANNOTATION.png,"[13, 7]",0.79
+regenerated_new/9/H/case-112453_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/10/H/case-112453_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-112453_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/12/H/case-112453_JAY_ANNOTATION.png,"[12, 4]",0.79
+regenerated_new/13/H/case-112453_JAY_ANNOTATION.png,"[4, 13]",0.79
+regenerated_new/14/H/case-112453_JAY_ANNOTATION.png,"[14, 11]",0.88
+regenerated_new/1/H/case-112536_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-112536_JAY_ANNOTATION.png,"[2,12]",0.71
+regenerated_new/5/H/case-112536_JAY_ANNOTATION.png,"[5,13]",0.71
+regenerated_new/6/H/case-112536_JAY_ANNOTATION.png,"[6,9]",0.62
+regenerated_new/9/H/case-112536_JAY_ANNOTATION.png,"[9,14]",0.71
+regenerated_new/10/H/case-112536_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-112536_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-112536_JAY_ANNOTATION.png,"[12, 11]",0.88
+regenerated_new/14/H/case-112536_JAY_ANNOTATION.png,"[14, 13]",0.88
+regenerated_new/1/H/case-112545_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-112545_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-112545_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-112545_JAY_ANNOTATION.png,"[5, 8]",0.7
+regenerated_new/10/H/case-112545_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/11/H/case-112545_JAY_ANNOTATION.png,"[10,11]",0.79
+regenerated_new/12/H/case-112545_JAY_ANNOTATION.png,"[12, 11]",0.88
+regenerated_new/13/H/case-112545_JAY_ANNOTATION.png,"[8, 13]",0.79
+regenerated_new/1/H/case-112559_JAY_ANNOTATION.png,"[1, 10]",0.79
+regenerated_new/2/H/case-112559_JAY_ANNOTATION.png,"[2,11]",0.71
+regenerated_new/4/H/case-112559_JAY_ANNOTATION.png,"[4,12]",0.71
+regenerated_new/5/H/case-112559_JAY_ANNOTATION.png,"[13, 5]",0.79
+regenerated_new/10/H/case-112559_JAY_ANNOTATION.png,"[10,11]",0.8
+regenerated_new/11/H/case-112559_JAY_ANNOTATION.png,"[11,10]",0.79
+regenerated_new/12/H/case-112559_JAY_ANNOTATION.png,"[12, 14]",0.88
+regenerated_new/13/H/case-112559_JAY_ANNOTATION.png,"[13, 9]",0.79
+regenerated_new/14/H/case-112559_JAY_ANNOTATION.png,"[14, 3]",0.79
+regenerated_new/3/H/case-100114_JAY_ANNOTATION.png,"[3,5]",13.76
+regenerated_new/7/H/case-100114_JAY_ANNOTATION.png,"[3,7]",12.23
+regenerated_new/8/H/case-100114_JAY_ANNOTATION.png,"[10,12]",13.26
+regenerated_new/9/H/case-100114_JAY_ANNOTATION.png,"[11,14]",16.95
+regenerated_new/14/H/case-100114_JAY_ANNOTATION.png,"[10,11]",15.47
+regenerated_new/3/H/case-100129_JAY_ANNOTATION.png,"[4,10]",12.86
+regenerated_new/7/H/case-100129_JAY_ANNOTATION.png,"[10,7]",13.48
+regenerated_new/8/H/case-100129_JAY_ANNOTATION.png,"[14,11]",14.73
+regenerated_new/9/H/case-100129_JAY_ANNOTATION.png,"[12,13]",15.78
+regenerated_new/14/H/case-100129_JAY_ANNOTATION.png,"[10,11]",11.84
+regenerated_new/3/H/case-100164_JAY_ANNOTATION.png,"[10,5]",16.58
+regenerated_new/6/H/case-100164_JAY_ANNOTATION.png,"[3,10]",13.75
+regenerated_new/8/H/case-100164_JAY_ANNOTATION.png,"[10,13]",13.04
+regenerated_new/9/H/case-100164_JAY_ANNOTATION.png,"[5,13]",13.57
+regenerated_new/3/H/case-100229_JAY_ANNOTATION.png,"[10,3]",13.81
+regenerated_new/7/H/case-100229_JAY_ANNOTATION.png,"[14,5]",13.4
+regenerated_new/8/H/case-100229_JAY_ANNOTATION.png,"[10,5]",13.29
+regenerated_new/9/H/case-100229_JAY_ANNOTATION.png,"[3,10]",16.8
+regenerated_new/3/H/case-100245_JAY_ANNOTATION.png,"[5,10]",15.13
+regenerated_new/6/H/case-100245_JAY_ANNOTATION.png,"[10,5]",13.03
+regenerated_new/7/H/case-100245_JAY_ANNOTATION.png,"[10,5]",16.08
+regenerated_new/8/H/case-100245_JAY_ANNOTATION.png,"[11,12]",12.25
+regenerated_new/9/H/case-100245_JAY_ANNOTATION.png,"[10,11]",15.65
+regenerated_new/3/H/case-100247_JAY_ANNOTATION.png,"[2,5]",16.43
+regenerated_new/4/H/case-100247_JAY_ANNOTATION.png,"[10,4]",17.46
+regenerated_new/8/H/case-100247_JAY_ANNOTATION.png,"[10,11]",14.44
+regenerated_new/9/H/case-100247_JAY_ANNOTATION.png,"[5,12]",13.58
+regenerated_new/3/H/case-100254_JAY_ANNOTATION.png,"[3,5]",11.3
+regenerated_new/6/H/case-100254_JAY_ANNOTATION.png,"[10,5]",15.66
+regenerated_new/7/H/case-100254_JAY_ANNOTATION.png,"[3,5]",12.16
+regenerated_new/8/H/case-100254_JAY_ANNOTATION.png,"[10,13]",13.73
+regenerated_new/12/H/case-100254_JAY_ANNOTATION.png,"[10,13]",14.32
+regenerated_new/3/H/case-100265_JAY_ANNOTATION.png,"[5,10]",11.27
+regenerated_new/7/H/case-100265_JAY_ANNOTATION.png,"[10,5]",17.9
+regenerated_new/8/H/case-100265_JAY_ANNOTATION.png,"[14,13]",15.21
+regenerated_new/9/H/case-100265_JAY_ANNOTATION.png,"[12,14]",13.88
+regenerated_new/3/H/case-100304_JAY_ANNOTATION.png,"[5,12]",10.97
+regenerated_new/4/H/case-100304_JAY_ANNOTATION.png,"[10,5]",14.31
+regenerated_new/6/H/case-100304_JAY_ANNOTATION.png,"[10,1]",15.54
+regenerated_new/7/H/case-100304_JAY_ANNOTATION.png,"[10,12]",12.28
+regenerated_new/8/H/case-100304_JAY_ANNOTATION.png,"[14,12]",14.24
+regenerated_new/9/H/case-100304_JAY_ANNOTATION.png,"[14,2]",10.9
+regenerated_new/3/H/case-100308_JAY_ANNOTATION.png,"[10,5]",11.58
+regenerated_new/4/H/case-100308_JAY_ANNOTATION.png,"[11,4]",11.65
+regenerated_new/7/H/case-100308_JAY_ANNOTATION.png,"[2,5]",15.31
+regenerated_new/8/H/case-100308_JAY_ANNOTATION.png,"[11,14]",14.16
+regenerated_new/3/H/case-100359_JAY_ANNOTATION.png,"[5,10]",13.74
+regenerated_new/5/H/case-100359_JAY_ANNOTATION.png,"[13,5]",10.66
+regenerated_new/7/H/case-100359_JAY_ANNOTATION.png,"[3,13]",16.62
+regenerated_new/8/H/case-100359_JAY_ANNOTATION.png,"[14,10]",14.34
+regenerated_new/9/H/case-100359_JAY_ANNOTATION.png,"[14,12]",10.5
+regenerated_new/3/H/case-100366_JAY_ANNOTATION.png,"[2,13]",11.62
+regenerated_new/6/H/case-100366_JAY_ANNOTATION.png,"[2,10]",14.15
+regenerated_new/7/H/case-100366_JAY_ANNOTATION.png,"[10,11]",12.94
+regenerated_new/8/H/case-100366_JAY_ANNOTATION.png,"[10,11]",12.94
+regenerated_new/9/H/case-100366_JAY_ANNOTATION.png,"[10,11]",13.96
+regenerated_new/13/H/case-100366_JAY_ANNOTATION.png,"[13,10]",15.3
+regenerated_new/3/H/case-100369_JAY_ANNOTATION.png,"[3,10]",12.31
+regenerated_new/4/H/case-100369_JAY_ANNOTATION.png,"[10,3]",16.24
+regenerated_new/7/H/case-100369_JAY_ANNOTATION.png,"[3,10]",14.59
+regenerated_new/8/H/case-100369_JAY_ANNOTATION.png,"[10,5]",13.01
+regenerated_new/9/H/case-100369_JAY_ANNOTATION.png,"[10,5]",13.02
+regenerated_new/3/H/case-100371_JAY_ANNOTATION.png,"[2,5]",16.28
+regenerated_new/7/H/case-100371_JAY_ANNOTATION.png,"[13,5]",15.17
+regenerated_new/8/H/case-100371_JAY_ANNOTATION.png,"[10,4]",15.84
+regenerated_new/9/H/case-100371_JAY_ANNOTATION.png,"[10,13]",12.93
+regenerated_new/3/H/case-100515_JAY_ANNOTATION.png,"[3,5]",12.08
+regenerated_new/6/H/case-100515_JAY_ANNOTATION.png,"[10,13]",15.56
+regenerated_new/7/H/case-100515_JAY_ANNOTATION.png,"[10,13]",15.68
+regenerated_new/8/H/case-100515_JAY_ANNOTATION.png,"[10,13]",15.51
+regenerated_new/9/H/case-100515_JAY_ANNOTATION.png,"[14,13]",15.52
+regenerated_new/3/H/case-100518_JAY_ANNOTATION.png,"[5,10]",12.0
+regenerated_new/6/H/case-100518_JAY_ANNOTATION.png,"[3,5]",13.94
+regenerated_new/7/H/case-100518_JAY_ANNOTATION.png,"[3,10]",15.42
+regenerated_new/8/H/case-100518_JAY_ANNOTATION.png,"[10,5]",11.47
+regenerated_new/9/H/case-100518_JAY_ANNOTATION.png,"[10,12]",16.2
+regenerated_new/3/H/case-100541_JAY_ANNOTATION.png,"[5,3]",11.47
+regenerated_new/6/H/case-100541_JAY_ANNOTATION.png,"[10,5]",16.17
+regenerated_new/7/H/case-100541_JAY_ANNOTATION.png,"[10,13]",14.07
+regenerated_new/8/H/case-100541_JAY_ANNOTATION.png,"[10,3]",15.14
+regenerated_new/9/H/case-100541_JAY_ANNOTATION.png,"[10,11]",15.08
+regenerated_new/13/H/case-100541_JAY_ANNOTATION.png,"[10,5]",13.05
+regenerated_new/3/H/case-100585_JAY_ANNOTATION.png,"[3,5]",12.66
+regenerated_new/5/H/case-100585_JAY_ANNOTATION.png,"[13,3]",12.94
+regenerated_new/6/H/case-100585_JAY_ANNOTATION.png,"[10,14]",12.52
+regenerated_new/7/H/case-100585_JAY_ANNOTATION.png,"[10,3]",12.52
+regenerated_new/8/H/case-100585_JAY_ANNOTATION.png,"[14,11]",14.33
+regenerated_new/9/H/case-100585_JAY_ANNOTATION.png,"[10,12]",11.55
+regenerated_new/3/H/case-100591_JAY_ANNOTATION.png,"[5,3]",12.23
+regenerated_new/5/H/case-100591_JAY_ANNOTATION.png,"[10,13]",14.84
+regenerated_new/7/H/case-100591_JAY_ANNOTATION.png,"[10,13]",13.9
+regenerated_new/8/H/case-100591_JAY_ANNOTATION.png,"[5,13]",12.41
+regenerated_new/9/H/case-100591_JAY_ANNOTATION.png,"[10,11]",15.03
+regenerated_new/3/H/case-100702_JAY_ANNOTATION.png,"[10,13]",14.23
+regenerated_new/5/H/case-100702_JAY_ANNOTATION.png,"[13,5]",11.09
+regenerated_new/6/H/case-100702_JAY_ANNOTATION.png,"[3,10]",12.24
+regenerated_new/7/H/case-100702_JAY_ANNOTATION.png,"[3,10]",14.41
+regenerated_new/8/H/case-100702_JAY_ANNOTATION.png,"[10,11]",13.45
+regenerated_new/9/H/case-100702_JAY_ANNOTATION.png,"[10,12]",13.1
+regenerated_new/12/H/case-100702_JAY_ANNOTATION.png,"[10,12]",15.71
+regenerated_new/3/H/case-100770_JAY_ANNOTATION.png,"[5,10]",13.8
+regenerated_new/7/H/case-100770_JAY_ANNOTATION.png,"[10,5]",14.22
+regenerated_new/8/H/case-100770_JAY_ANNOTATION.png,"[10,14]",16.8
+regenerated_new/9/H/case-100770_JAY_ANNOTATION.png,"[3,10]",15.99
+regenerated_new/3/H/case-100779_JAY_ANNOTATION.png,"[5,2]",13.9
+regenerated_new/5/H/case-100779_JAY_ANNOTATION.png,"[5,13]",11.99
+regenerated_new/7/H/case-100779_JAY_ANNOTATION.png,"[10,5]",15.76
+regenerated_new/8/H/case-100779_JAY_ANNOTATION.png,"[10,5]",12.42
+regenerated_new/9/H/case-100779_JAY_ANNOTATION.png,"[10,11]",12.85
+regenerated_new/3/H/case-100863_JAY_ANNOTATION.png,"[2,10]",11.37
+regenerated_new/6/H/case-100863_JAY_ANNOTATION.png,"[10,14]",13.17
+regenerated_new/7/H/case-100863_JAY_ANNOTATION.png,"[14,5]",16.48
+regenerated_new/8/H/case-100863_JAY_ANNOTATION.png,"[5,10]",16.04
+regenerated_new/14/H/case-100863_JAY_ANNOTATION.png,"[11,10]",14.89
+regenerated_new/3/H/case-100915_JAY_ANNOTATION.png,"[5,10]",11.01
+regenerated_new/6/H/case-100915_JAY_ANNOTATION.png,"[10,3]",14.06
+regenerated_new/8/H/case-100915_JAY_ANNOTATION.png,"[14,9]",13.2
+regenerated_new/9/H/case-100915_JAY_ANNOTATION.png,"[10,5]",12.4
+regenerated_new/3/H/case-100917_JAY_ANNOTATION.png,"[10,3]",11.71
+regenerated_new/6/H/case-100917_JAY_ANNOTATION.png,"[13,10]",11.02
+regenerated_new/7/H/case-100917_JAY_ANNOTATION.png,"[10,5]",14.36
+regenerated_new/8/H/case-100917_JAY_ANNOTATION.png,"[10,5]",14.76
+regenerated_new/9/H/case-100917_JAY_ANNOTATION.png,"[3,13]",10.41
+regenerated_new/3/H/case-101045_JAY_ANNOTATION.png,"[2,4]",12.59
+regenerated_new/7/H/case-101045_JAY_ANNOTATION.png,"[5,10]",15.04
+regenerated_new/8/H/case-101045_JAY_ANNOTATION.png,"[10,11]",14.58
+regenerated_new/9/H/case-101045_JAY_ANNOTATION.png,"[10,5]",13.88
+regenerated_new/3/H/case-101074_JAY_ANNOTATION.png,"[10,11]",12.25
+regenerated_new/7/H/case-101074_JAY_ANNOTATION.png,"[7,13]",10.16
+regenerated_new/8/H/case-101074_JAY_ANNOTATION.png,"[10,5]",13.63
+regenerated_new/9/H/case-101074_JAY_ANNOTATION.png,"[10,11]",12.69
+regenerated_new/14/H/case-101074_JAY_ANNOTATION.png,"[1,14]",16.3
+regenerated_new/3/H/case-101133_JAY_ANNOTATION.png,"[5,10]",12.45
+regenerated_new/5/H/case-101133_JAY_ANNOTATION.png,"[13,10]",16.12
+regenerated_new/6/H/case-101133_JAY_ANNOTATION.png,"[3,10]",11.9
+regenerated_new/7/H/case-101133_JAY_ANNOTATION.png,"[5,14]",10.69
+regenerated_new/8/H/case-101133_JAY_ANNOTATION.png,"[10,13]",16.54
+regenerated_new/9/H/case-101133_JAY_ANNOTATION.png,"[13,10]",14.74
+regenerated_new/3/H/case-101195_JAY_ANNOTATION.png,"[2,4]",16.06
+regenerated_new/6/H/case-101195_JAY_ANNOTATION.png,"[5,10]",14.56
+regenerated_new/8/H/case-101195_JAY_ANNOTATION.png,"[11,10]",16.19
+regenerated_new/9/H/case-101195_JAY_ANNOTATION.png,"[10,13]",12.25
+regenerated_new/3/H/case-101206_JAY_ANNOTATION.png,"[10,5]",11.56
+regenerated_new/7/H/case-101206_JAY_ANNOTATION.png,"[14,9]",14.17
+regenerated_new/8/H/case-101206_JAY_ANNOTATION.png,"[11,10]",11.89
+regenerated_new/9/H/case-101206_JAY_ANNOTATION.png,"[10,11]",12.58
+regenerated_new/3/H/case-101362_JAY_ANNOTATION.png,"[5,10]",11.19
+regenerated_new/7/H/case-101362_JAY_ANNOTATION.png,"[10,3]",10.83
+regenerated_new/8/H/case-101362_JAY_ANNOTATION.png,"[10,5]",10.93
+regenerated_new/9/H/case-101362_JAY_ANNOTATION.png,"[10,11]",13.92
+regenerated_new/3/H/case-101367_JAY_ANNOTATION.png,"[5,13]",12.34
+regenerated_new/6/H/case-101367_JAY_ANNOTATION.png,"[10,5]",14.45
+regenerated_new/7/H/case-101367_JAY_ANNOTATION.png,"[10,5]",14.18
+regenerated_new/8/H/case-101367_JAY_ANNOTATION.png,"[11,3]",13.59
+regenerated_new/9/H/case-101367_JAY_ANNOTATION.png,"[11,10]",12.7
+regenerated_new/13/H/case-101367_JAY_ANNOTATION.png,"[10,3]",15.49
+regenerated_new/3/H/case-101409_JAY_ANNOTATION.png,"[10,5]",12.09
+regenerated_new/5/H/case-101409_JAY_ANNOTATION.png,"[10,3]",14.64
+regenerated_new/6/H/case-101409_JAY_ANNOTATION.png,"[10,13]",14.62
+regenerated_new/8/H/case-101409_JAY_ANNOTATION.png,"[11,5]",12.35
+regenerated_new/3/H/case-101413_JAY_ANNOTATION.png,"[10,3]",10.17
+regenerated_new/7/H/case-101413_JAY_ANNOTATION.png,"[11,5]",10.69
+regenerated_new/8/H/case-101413_JAY_ANNOTATION.png,"[14,12]",14.35
+regenerated_new/9/H/case-101413_JAY_ANNOTATION.png,"[10,13]",13.13
+regenerated_new/3/H/case-101447_JAY_ANNOTATION.png,"[10,3]",12.79
+regenerated_new/4/H/case-101447_JAY_ANNOTATION.png,"[4,12]",12.51
+regenerated_new/5/H/case-101447_JAY_ANNOTATION.png,"[10,5]",12.4
+regenerated_new/7/H/case-101447_JAY_ANNOTATION.png,"[5,3]",13.9
+regenerated_new/8/H/case-101447_JAY_ANNOTATION.png,"[10,13]",15.11
+regenerated_new/9/H/case-101447_JAY_ANNOTATION.png,"[2,12]",14.85
+regenerated_new/3/H/case-101510_JAY_ANNOTATION.png,"[4,12]",12.74
+regenerated_new/7/H/case-101510_JAY_ANNOTATION.png,"[10,5]",15.55
+regenerated_new/8/H/case-101510_JAY_ANNOTATION.png,"[10,5]",11.1
+regenerated_new/9/H/case-101510_JAY_ANNOTATION.png,"[10,12]",13.29
+regenerated_new/3/H/case-101540_JAY_ANNOTATION.png,"[3,5]",14.67
+regenerated_new/7/H/case-101540_JAY_ANNOTATION.png,"[10,13]",14.76
+regenerated_new/8/H/case-101540_JAY_ANNOTATION.png,"[10,5]",16.81
+regenerated_new/9/H/case-101540_JAY_ANNOTATION.png,"[14,6]",12.96
+regenerated_new/3/H/case-101581_JAY_ANNOTATION.png,"[5,10]",12.47
+regenerated_new/4/H/case-101581_JAY_ANNOTATION.png,"[10,11]",14.24
+regenerated_new/6/H/case-101581_JAY_ANNOTATION.png,"[1,10]",11.2
+regenerated_new/7/H/case-101581_JAY_ANNOTATION.png,"[14,2]",10.59
+regenerated_new/8/H/case-101581_JAY_ANNOTATION.png,"[11,4]",13.21
+regenerated_new/9/H/case-101581_JAY_ANNOTATION.png,"[11,10]",12.86
+regenerated_new/12/H/case-101581_JAY_ANNOTATION.png,"[10,12]",12.59
+regenerated_new/3/H/case-101599_JAY_ANNOTATION.png,"[4,10]",11.2
+regenerated_new/6/H/case-101599_JAY_ANNOTATION.png,"[10,1]",14.79
+regenerated_new/7/H/case-101599_JAY_ANNOTATION.png,"[2,5]",17.16
+regenerated_new/8/H/case-101599_JAY_ANNOTATION.png,"[11,14]",15.03
+regenerated_new/9/H/case-101599_JAY_ANNOTATION.png,"[10,2]",15.04
+regenerated_new/3/H/case-101625_JAY_ANNOTATION.png,"[3,5]",14.16
+regenerated_new/4/H/case-101625_JAY_ANNOTATION.png,"[11,4]",16.1
+regenerated_new/6/H/case-101625_JAY_ANNOTATION.png,"[5,10]",12.67
+regenerated_new/7/H/case-101625_JAY_ANNOTATION.png,"[10,13]",11.39
+regenerated_new/8/H/case-101625_JAY_ANNOTATION.png,"[10,5]",15.32
+regenerated_new/9/H/case-101625_JAY_ANNOTATION.png,"[11,13]",13.88
+regenerated_new/3/H/case-101641_JAY_ANNOTATION.png,"[2,10]",14.07
+regenerated_new/5/H/case-101641_JAY_ANNOTATION.png,"[10,5]",12.68
+regenerated_new/6/H/case-101641_JAY_ANNOTATION.png,"[10,13]",15.81
+regenerated_new/7/H/case-101641_JAY_ANNOTATION.png,"[13,5]",14.51
+regenerated_new/8/H/case-101641_JAY_ANNOTATION.png,"[11,13]",11.55
+regenerated_new/3/H/case-101857_JAY_ANNOTATION.png,"[2,10]",16.5
+regenerated_new/7/H/case-101857_JAY_ANNOTATION.png,"[12,14]",18.26
+regenerated_new/8/H/case-101857_JAY_ANNOTATION.png,"[10,12]",12.33
+regenerated_new/9/H/case-101857_JAY_ANNOTATION.png,"[10,13]",13.63
+regenerated_new/3/H/case-101860_JAY_ANNOTATION.png,"[10,3]",11.18
+regenerated_new/6/H/case-101860_JAY_ANNOTATION.png,"[5,10]",12.23
+regenerated_new/7/H/case-101860_JAY_ANNOTATION.png,"[10,5]",11.01
+regenerated_new/8/H/case-101860_JAY_ANNOTATION.png,"[10,12]",12.24
+regenerated_new/9/H/case-101860_JAY_ANNOTATION.png,"[10,12]",12.85
+regenerated_new/3/H/case-101885_JAY_ANNOTATION.png,"[3,10]",15.32
+regenerated_new/6/H/case-101885_JAY_ANNOTATION.png,"[10,5]",13.58
+regenerated_new/7/H/case-101885_JAY_ANNOTATION.png,"[3,5]",13.48
+regenerated_new/9/H/case-101885_JAY_ANNOTATION.png,"[10,11]",11.93
+regenerated_new/14/H/case-101885_JAY_ANNOTATION.png,"[10,14]",12.34
+regenerated_new/3/H/case-101937_JAY_ANNOTATION.png,"[11,10]",12.51
+regenerated_new/7/H/case-101937_JAY_ANNOTATION.png,"[13,10]",14.46
+regenerated_new/8/H/case-101937_JAY_ANNOTATION.png,"[14,13]",13.32
+regenerated_new/9/H/case-101937_JAY_ANNOTATION.png,"[2,13]",13.61
+regenerated_new/3/H/case-101940_JAY_ANNOTATION.png,"[5,10]",10.8
+regenerated_new/7/H/case-101940_JAY_ANNOTATION.png,"[10,3]",12.17
+regenerated_new/8/H/case-101940_JAY_ANNOTATION.png,"[13,5]",15.4
+regenerated_new/9/H/case-101940_JAY_ANNOTATION.png,"[10,12]",15.08
+regenerated_new/3/H/case-101982_JAY_ANNOTATION.png,"[2,10]",12.92
+regenerated_new/7/H/case-101982_JAY_ANNOTATION.png,"[10,5]",13.89
+regenerated_new/8/H/case-101982_JAY_ANNOTATION.png,"[11,14]",16.6
+regenerated_new/9/H/case-101982_JAY_ANNOTATION.png,"[2,10]",15.02
+regenerated_new/3/H/case-102010_JAY_ANNOTATION.png,"[10,3]",15.97
+regenerated_new/6/H/case-102010_JAY_ANNOTATION.png,"[10,5]",13.97
+regenerated_new/8/H/case-102010_JAY_ANNOTATION.png,"[14,9]",14.35
+regenerated_new/9/H/case-102010_JAY_ANNOTATION.png,"[12,4]",11.79
+regenerated_new/3/H/case-102041_JAY_ANNOTATION.png,"[3,10]",14.78
+regenerated_new/6/H/case-102041_JAY_ANNOTATION.png,"[10,5]",14.17
+regenerated_new/7/H/case-102041_JAY_ANNOTATION.png,"[10,13]",15.47
+regenerated_new/8/H/case-102041_JAY_ANNOTATION.png,"[10,11]",14.6
+regenerated_new/9/H/case-102041_JAY_ANNOTATION.png,"[10,11]",13.48
+regenerated_new/3/H/case-102093_JAY_ANNOTATION.png,"[10,2]",11.74
+regenerated_new/5/H/case-102093_JAY_ANNOTATION.png,"[10,13]",14.01
+regenerated_new/7/H/case-102093_JAY_ANNOTATION.png,"[10,5]",14.61
+regenerated_new/8/H/case-102093_JAY_ANNOTATION.png,"[10,13]",15.26
+regenerated_new/9/H/case-102093_JAY_ANNOTATION.png,"[14,12]",15.13
+regenerated_new/3/H/case-102157_JAY_ANNOTATION.png,"[10,12]",13.67
+regenerated_new/7/H/case-102157_JAY_ANNOTATION.png,"[5,10]",14.1
+regenerated_new/8/H/case-102157_JAY_ANNOTATION.png,"[10,12]",14.81
+regenerated_new/9/H/case-102157_JAY_ANNOTATION.png,"[10,13]",13.76
+regenerated_new/3/H/case-102183_JAY_ANNOTATION.png,"[5,10]",13.63
+regenerated_new/4/H/case-102183_JAY_ANNOTATION.png,"[11,4]",11.64
+regenerated_new/7/H/case-102183_JAY_ANNOTATION.png,"[10,3]",11.48
+regenerated_new/8/H/case-102183_JAY_ANNOTATION.png,"[10,5]",13.64
+regenerated_new/9/H/case-102183_JAY_ANNOTATION.png,"[10,11]",13.39
+regenerated_new/3/H/case-102224_JAY_ANNOTATION.png,"[5,10]",13.69
+regenerated_new/5/H/case-102224_JAY_ANNOTATION.png,"[13,5]",11.53
+regenerated_new/6/H/case-102224_JAY_ANNOTATION.png,"[13,10]",13.25
+regenerated_new/7/H/case-102224_JAY_ANNOTATION.png,"[10,5]",15.18
+regenerated_new/8/H/case-102224_JAY_ANNOTATION.png,"[10,11]",12.58
+regenerated_new/9/H/case-102224_JAY_ANNOTATION.png,"[13,5]",15.91
+regenerated_new/3/H/case-102308_JAY_ANNOTATION.png,"[5,13]",10.93
+regenerated_new/5/H/case-102308_JAY_ANNOTATION.png,"[13,10]",11.66
+regenerated_new/7/H/case-102308_JAY_ANNOTATION.png,"[3,12]",13.32
+regenerated_new/8/H/case-102308_JAY_ANNOTATION.png,"[10,13]",14.06
+regenerated_new/9/H/case-102308_JAY_ANNOTATION.png,"[14,2]",11.54
+regenerated_new/3/H/case-102321_JAY_ANNOTATION.png,"[11,5]",11.8
+regenerated_new/5/H/case-102321_JAY_ANNOTATION.png,"[13,10]",13.47
+regenerated_new/8/H/case-102321_JAY_ANNOTATION.png,"[10,13]",11.88
+regenerated_new/9/H/case-102321_JAY_ANNOTATION.png,"[10,5]",12.76
+regenerated_new/13/H/case-102321_JAY_ANNOTATION.png,"[5,13]",12.23
+regenerated_new/14/H/case-102321_JAY_ANNOTATION.png,"[1,10]",11.62
+regenerated_new/3/H/case-102367_JAY_ANNOTATION.png,"[5,3]",12.8
+regenerated_new/7/H/case-102367_JAY_ANNOTATION.png,"[10,9]",12.71
+regenerated_new/8/H/case-102367_JAY_ANNOTATION.png,"[14,7]",11.91
+regenerated_new/9/H/case-102367_JAY_ANNOTATION.png,"[11,10]",12.94
+regenerated_new/3/H/case-102388_JAY_ANNOTATION.png,"[3,10]",13.8
+regenerated_new/8/H/case-102388_JAY_ANNOTATION.png,"[3,5]",18.35
+regenerated_new/9/H/case-102388_JAY_ANNOTATION.png,"[10,5]",13.29
+regenerated_new/3/H/case-104754_JAY_ANNOTATION.png,"[10,4]",12.59
+regenerated_new/6/H/case-104754_JAY_ANNOTATION.png,"[10,5]",12.6
+regenerated_new/7/H/case-104754_JAY_ANNOTATION.png,"[3,10]",10.75
+regenerated_new/8/H/case-104754_JAY_ANNOTATION.png,"[10,11]",16.56
+regenerated_new/9/H/case-104754_JAY_ANNOTATION.png,"[10,11]",14.46
+regenerated_new/3/H/case-104780_JAY_ANNOTATION.png,"[10,3]",14.06
+regenerated_new/4/H/case-104780_JAY_ANNOTATION.png,"[12,10]",13.37
+regenerated_new/5/H/case-104780_JAY_ANNOTATION.png,"[5,10]",13.98
+regenerated_new/6/H/case-104780_JAY_ANNOTATION.png,"[2,4]",14.23
+regenerated_new/7/H/case-104780_JAY_ANNOTATION.png,"[3,5]",10.94
+regenerated_new/8/H/case-104780_JAY_ANNOTATION.png,"[11,14]",14.99
+regenerated_new/9/H/case-104780_JAY_ANNOTATION.png,"[14,12]",11.4
+regenerated_new/12/H/case-104780_JAY_ANNOTATION.png,"[13,5]",14.63
+regenerated_new/3/H/case-104842_JAY_ANNOTATION.png,"[5,10]",11.21
+regenerated_new/5/H/case-104842_JAY_ANNOTATION.png,"[13,5]",10.94
+regenerated_new/7/H/case-104842_JAY_ANNOTATION.png,"[10,13]",14.51
+regenerated_new/8/H/case-104842_JAY_ANNOTATION.png,"[10,13]",13.39
+regenerated_new/9/H/case-104842_JAY_ANNOTATION.png,"[14,10]",14.15
+regenerated_new/3/H/case-104941_JAY_ANNOTATION.png,"[10,2]",11.53
+regenerated_new/5/H/case-104941_JAY_ANNOTATION.png,"[5,10]",13.64
+regenerated_new/8/H/case-104941_JAY_ANNOTATION.png,"[13,5]",11.92
+regenerated_new/3/H/case-104979_JAY_ANNOTATION.png,"[3,5]",11.99
+regenerated_new/7/H/case-104979_JAY_ANNOTATION.png,"[2,7]",14.79
+regenerated_new/8/H/case-104979_JAY_ANNOTATION.png,"[10,13]",14.56
+regenerated_new/3/H/case-104990_JAY_ANNOTATION.png,"[3,5]",14.47
+regenerated_new/4/H/case-104990_JAY_ANNOTATION.png,"[3,10]",13.4
+regenerated_new/5/H/case-104990_JAY_ANNOTATION.png,"[5,12]",14.59
+regenerated_new/6/H/case-104990_JAY_ANNOTATION.png,"[10,12]",13.65
+regenerated_new/7/H/case-104990_JAY_ANNOTATION.png,"[1,9]",13.4
+regenerated_new/8/H/case-104990_JAY_ANNOTATION.png,"[10,12]",12.6
+regenerated_new/9/H/case-104990_JAY_ANNOTATION.png,"[10,13]",14.5
+regenerated_new/12/H/case-104990_JAY_ANNOTATION.png,"[11,12]",13.37
+regenerated_new/3/H/case-105035_JAY_ANNOTATION.png,"[10,5]",12.99
+regenerated_new/8/H/case-105035_JAY_ANNOTATION.png,"[14,10]",11.35
+regenerated_new/9/H/case-105035_JAY_ANNOTATION.png,"[13,10]",11.0
+regenerated_new/3/H/case-105051_JAY_ANNOTATION.png,"[3,5]",12.49
+regenerated_new/8/H/case-105051_JAY_ANNOTATION.png,"[14,10]",15.95
+regenerated_new/9/H/case-105051_JAY_ANNOTATION.png,"[11,4]",13.22
+regenerated_new/13/H/case-105051_JAY_ANNOTATION.png,"[5,13]",14.97
+regenerated_new/3/H/case-105171_JAY_ANNOTATION.png,"[2,10]",14.02
+regenerated_new/7/H/case-105171_JAY_ANNOTATION.png,"[14,9]",13.55
+regenerated_new/8/H/case-105171_JAY_ANNOTATION.png,"[14,5]",12.44
+regenerated_new/9/H/case-105171_JAY_ANNOTATION.png,"[10,12]",13.33
+regenerated_new/14/H/case-105171_JAY_ANNOTATION.png,"[11,10]",13.59
+regenerated_new/3/H/case-105177_JAY_ANNOTATION.png,"[5,10]",13.23
+regenerated_new/6/H/case-105177_JAY_ANNOTATION.png,"[5,10]",16.18
+regenerated_new/7/H/case-105177_JAY_ANNOTATION.png,"[10,3]",13.47
+regenerated_new/8/H/case-105177_JAY_ANNOTATION.png,"[11,12]",15.84
+regenerated_new/9/H/case-105177_JAY_ANNOTATION.png,"[10,11]",12.95
+regenerated_new/7/H/case-105234_JAY_ANNOTATION.png,"[5,7]",14.98
+regenerated_new/8/H/case-105234_JAY_ANNOTATION.png,"[13,5]",11.32
+regenerated_new/12/H/case-105234_JAY_ANNOTATION.png,"[12,10]",13.47
+regenerated_new/3/H/case-105246_JAY_ANNOTATION.png,"[3,12]",11.48
+regenerated_new/4/H/case-105246_JAY_ANNOTATION.png,"[10,5]",11.29
+regenerated_new/5/H/case-105246_JAY_ANNOTATION.png,"[4,13]",14.62
+regenerated_new/7/H/case-105246_JAY_ANNOTATION.png,"[10,5]",15.79
+regenerated_new/8/H/case-105246_JAY_ANNOTATION.png,"[3,11]",16.57
+regenerated_new/12/H/case-105246_JAY_ANNOTATION.png,"[10,11]",15.74
+regenerated_new/13/H/case-105246_JAY_ANNOTATION.png,"[10,5]",15.47
+regenerated_new/3/H/case-105257_JAY_ANNOTATION.png,"[10,3]",12.62
+regenerated_new/7/H/case-105257_JAY_ANNOTATION.png,"[11,13]",12.57
+regenerated_new/8/H/case-105257_JAY_ANNOTATION.png,"[10,13]",14.34
+regenerated_new/9/H/case-105257_JAY_ANNOTATION.png,"[12,6]",12.48
+regenerated_new/3/H/case-105288_JAY_ANNOTATION.png,"[2,10]",13.36
+regenerated_new/6/H/case-105288_JAY_ANNOTATION.png,"[10,11]",12.84
+regenerated_new/7/H/case-105288_JAY_ANNOTATION.png,"[10,5]",13.71
+regenerated_new/8/H/case-105288_JAY_ANNOTATION.png,"[10,12]",15.7
+regenerated_new/9/H/case-105288_JAY_ANNOTATION.png,"[5,10]",13.79
+regenerated_new/14/H/case-105288_JAY_ANNOTATION.png,"[10,11]",10.91
+regenerated_new/3/H/case-105318_JAY_ANNOTATION.png,"[5,2]",12.15
+regenerated_new/4/H/case-105318_JAY_ANNOTATION.png,"[10,12]",16.43
+regenerated_new/5/H/case-105318_JAY_ANNOTATION.png,"[10,11]",11.46
+regenerated_new/6/H/case-105318_JAY_ANNOTATION.png,"[2,13]",17.15
+regenerated_new/7/H/case-105318_JAY_ANNOTATION.png,"[10,3]",13.66
+regenerated_new/8/H/case-105318_JAY_ANNOTATION.png,"[10,11]",12.79
+regenerated_new/9/H/case-105318_JAY_ANNOTATION.png,"[10,4]",15.15
+regenerated_new/3/H/case-105476_JAY_ANNOTATION.png,"[5,10]",12.97
+regenerated_new/7/H/case-105476_JAY_ANNOTATION.png,"[10,13]",13.76
+regenerated_new/8/H/case-105476_JAY_ANNOTATION.png,"[13,5]",13.57
+regenerated_new/3/H/case-105567_JAY_ANNOTATION.png,"[3,5]",15.24
+regenerated_new/6/H/case-105567_JAY_ANNOTATION.png,"[3,5]",16.52
+regenerated_new/7/H/case-105567_JAY_ANNOTATION.png,"[3,9]",12.09
+regenerated_new/8/H/case-105567_JAY_ANNOTATION.png,"[10,11]",12.32
+regenerated_new/9/H/case-105567_JAY_ANNOTATION.png,"[10,11]",13.9
+regenerated_new/14/H/case-105567_JAY_ANNOTATION.png,"[14,10]",12.67
+regenerated_new/3/H/case-105579_JAY_ANNOTATION.png,"[2,10]",11.89
+regenerated_new/7/H/case-105579_JAY_ANNOTATION.png,"[3,10]",10.93
+regenerated_new/8/H/case-105579_JAY_ANNOTATION.png,"[14,11]",11.63
+regenerated_new/9/H/case-105579_JAY_ANNOTATION.png,"[10,11]",15.16
+regenerated_new/8/H/case-105586_JAY_ANNOTATION.png,"[10,11]",14.29
+regenerated_new/9/H/case-105586_JAY_ANNOTATION.png,"[13,10]",16.81
+regenerated_new/3/H/case-105592_JAY_ANNOTATION.png,"[3,5]",11.08
+regenerated_new/6/H/case-105592_JAY_ANNOTATION.png,"[10,3]",12.39
+regenerated_new/7/H/case-105592_JAY_ANNOTATION.png,"[14,3]",13.7
+regenerated_new/8/H/case-105592_JAY_ANNOTATION.png,"[10,12]",13.19
+regenerated_new/9/H/case-105592_JAY_ANNOTATION.png,"[10,11]",11.9
+regenerated_new/3/H/case-105597_JAY_ANNOTATION.png,"[4,2]",11.54
+regenerated_new/6/H/case-105597_JAY_ANNOTATION.png,"[14,2]",12.32
+regenerated_new/8/H/case-105597_JAY_ANNOTATION.png,"[10,13]",16.96
+regenerated_new/9/H/case-105597_JAY_ANNOTATION.png,"[11,2]",11.13
+regenerated_new/3/H/case-105602_JAY_ANNOTATION.png,"[5,10]",13.13
+regenerated_new/6/H/case-105602_JAY_ANNOTATION.png,"[10,3]",11.74
+regenerated_new/7/H/case-105602_JAY_ANNOTATION.png,"[1,14]",12.69
+regenerated_new/8/H/case-105602_JAY_ANNOTATION.png,"[10,12]",14.88
+regenerated_new/9/H/case-105602_JAY_ANNOTATION.png,"[13,5]",14.87
+regenerated_new/14/H/case-105602_JAY_ANNOTATION.png,"[1,10]",9.65
+regenerated_new/3/H/case-105681_JAY_ANNOTATION.png,"[5,2]",11.28
+regenerated_new/7/H/case-105681_JAY_ANNOTATION.png,"[10,13]",10.87
+regenerated_new/8/H/case-105681_JAY_ANNOTATION.png,"[14,11]",12.17
+regenerated_new/9/H/case-105681_JAY_ANNOTATION.png,"[13,4]",14.02
+regenerated_new/3/H/case-105704_JAY_ANNOTATION.png,"[10,5]",13.4
+regenerated_new/6/H/case-105704_JAY_ANNOTATION.png,"[5,3]",12.28
+regenerated_new/8/H/case-105704_JAY_ANNOTATION.png,"[10,13]",12.1
+regenerated_new/3/H/case-105817_JAY_ANNOTATION.png,"[2,10]",14.54
+regenerated_new/7/H/case-105817_JAY_ANNOTATION.png,"[10,13]",13.9
+regenerated_new/8/H/case-105817_JAY_ANNOTATION.png,"[10,12]",14.78
+regenerated_new/9/H/case-105817_JAY_ANNOTATION.png,"[10,12]",13.91
+regenerated_new/3/H/case-105839_JAY_ANNOTATION.png,"[2,4]",14.45
+regenerated_new/7/H/case-105839_JAY_ANNOTATION.png,"[3,13]",14.9
+regenerated_new/8/H/case-105839_JAY_ANNOTATION.png,"[10,12]",14.91
+regenerated_new/3/H/case-105862_JAY_ANNOTATION.png,"[3,10]",13.53
+regenerated_new/4/H/case-105862_JAY_ANNOTATION.png,"[10,13]",12.33
+regenerated_new/5/H/case-105862_JAY_ANNOTATION.png,"[10,5]",11.29
+regenerated_new/6/H/case-105862_JAY_ANNOTATION.png,"[3,10]",12.32
+regenerated_new/7/H/case-105862_JAY_ANNOTATION.png,"[10,3]",11.8
+regenerated_new/8/H/case-105862_JAY_ANNOTATION.png,"[11,12]",13.89
+regenerated_new/9/H/case-105862_JAY_ANNOTATION.png,"[10,4]",13.71
+regenerated_new/12/H/case-105862_JAY_ANNOTATION.png,"[10,13]",12.49
+regenerated_new/3/H/case-105915_JAY_ANNOTATION.png,"[5,10]",12.4
+regenerated_new/4/H/case-105915_JAY_ANNOTATION.png,"[10,5]",13.46
+regenerated_new/6/H/case-105915_JAY_ANNOTATION.png,"[10,13]",13.44
+regenerated_new/8/H/case-105915_JAY_ANNOTATION.png,"[10,11]",12.4
+regenerated_new/9/H/case-105915_JAY_ANNOTATION.png,"[5,10]",14.11
+regenerated_new/12/H/case-105915_JAY_ANNOTATION.png,"[4,12]",16.56
+regenerated_new/13/H/case-105915_JAY_ANNOTATION.png,"[10,5]",14.0
+regenerated_new/3/H/case-106012_JAY_ANNOTATION.png,"[5,2]",12.93
+regenerated_new/7/H/case-106012_JAY_ANNOTATION.png,"[10,3]",11.7
+regenerated_new/8/H/case-106012_JAY_ANNOTATION.png,"[10,11]",12.95
+regenerated_new/9/H/case-106012_JAY_ANNOTATION.png,"[14,11]",13.81
+regenerated_new/3/H/case-106016_JAY_ANNOTATION.png,"[3,10]",13.81
+regenerated_new/5/H/case-106016_JAY_ANNOTATION.png,"[5,13]",12.75
+regenerated_new/6/H/case-106016_JAY_ANNOTATION.png,"[10,3]",14.6
+regenerated_new/7/H/case-106016_JAY_ANNOTATION.png,"[10,5]",13.37
+regenerated_new/8/H/case-106016_JAY_ANNOTATION.png,"[10,12]",13.11
+regenerated_new/9/H/case-106016_JAY_ANNOTATION.png,"[13,10]",12.04
+regenerated_new/3/H/case-106081_JAY_ANNOTATION.png,"[2,10]",11.77
+regenerated_new/7/H/case-106081_JAY_ANNOTATION.png,"[10,5]",12.46
+regenerated_new/8/H/case-106081_JAY_ANNOTATION.png,"[14,2]",11.43
+regenerated_new/9/H/case-106081_JAY_ANNOTATION.png,"[10,12]",12.94
+regenerated_new/3/H/case-106101_JAY_ANNOTATION.png,"[3,10]",12.96
+regenerated_new/8/H/case-106101_JAY_ANNOTATION.png,"[14,10]",15.75
+regenerated_new/9/H/case-106101_JAY_ANNOTATION.png,"[10,11]",13.04
+regenerated_new/14/H/case-106101_JAY_ANNOTATION.png,"[10,11]",14.79
+regenerated_new/4/H/case-106127_JAY_ANNOTATION.png,"[10,5]",14.69
+regenerated_new/6/H/case-106127_JAY_ANNOTATION.png,"[2,10]",11.9
+regenerated_new/7/H/case-106127_JAY_ANNOTATION.png,"[10,13]",14.96
+regenerated_new/8/H/case-106127_JAY_ANNOTATION.png,"[5,10]",13.04
+regenerated_new/9/H/case-106127_JAY_ANNOTATION.png,"[14,5]",13.82
+regenerated_new/3/H/case-106139_JAY_ANNOTATION.png,"[3,10]",12.66
+regenerated_new/8/H/case-106139_JAY_ANNOTATION.png,"[14,11]",14.37
+regenerated_new/9/H/case-106139_JAY_ANNOTATION.png,"[11,10]",14.8
+regenerated_new/14/H/case-106139_JAY_ANNOTATION.png,"[10,11]",10.52
+regenerated_new/3/H/case-106141_JAY_ANNOTATION.png,"[10,5]",10.69
+regenerated_new/5/H/case-106141_JAY_ANNOTATION.png,"[5,13]",15.95
+regenerated_new/7/H/case-106141_JAY_ANNOTATION.png,"[10,11]",15.38
+regenerated_new/8/H/case-106141_JAY_ANNOTATION.png,"[10,13]",16.53
+regenerated_new/9/H/case-106141_JAY_ANNOTATION.png,"[10,13]",14.01
+regenerated_new/13/H/case-106141_JAY_ANNOTATION.png,"[14,13]",15.07
+regenerated_new/3/H/case-106157_JAY_ANNOTATION.png,"[10,5]",15.23
+regenerated_new/8/H/case-106157_JAY_ANNOTATION.png,"[10,5]",12.54
+regenerated_new/9/H/case-106157_JAY_ANNOTATION.png,"[10,11]",16.02
+regenerated_new/5/H/case-106172_JAY_ANNOTATION.png,"[5,14]",12.37
+regenerated_new/6/H/case-106172_JAY_ANNOTATION.png,"[14,10]",13.32
+regenerated_new/7/H/case-106172_JAY_ANNOTATION.png,"[7,5]",13.83
+regenerated_new/8/H/case-106172_JAY_ANNOTATION.png,"[10,5]",14.62
+regenerated_new/9/H/case-106172_JAY_ANNOTATION.png,"[10,12]",13.78
+regenerated_new/3/H/case-106301_JAY_ANNOTATION.png,"[10,5]",13.18
+regenerated_new/6/H/case-106301_JAY_ANNOTATION.png,"[3,10]",14.05
+regenerated_new/7/H/case-106301_JAY_ANNOTATION.png,"[3,5]",11.71
+regenerated_new/8/H/case-106301_JAY_ANNOTATION.png,"[14,3]",16.53
+regenerated_new/9/H/case-106301_JAY_ANNOTATION.png,"[10,13]",16.96
+regenerated_new/3/H/case-106371_JAY_ANNOTATION.png,"[10,3]",10.52
+regenerated_new/4/H/case-106371_JAY_ANNOTATION.png,"[12,4]",15.31
+regenerated_new/5/H/case-106371_JAY_ANNOTATION.png,"[10,13]",12.36
+regenerated_new/7/H/case-106371_JAY_ANNOTATION.png,"[10,9]",12.96
+regenerated_new/8/H/case-106371_JAY_ANNOTATION.png,"[14,10]",11.21
+regenerated_new/9/H/case-106371_JAY_ANNOTATION.png,"[12,14]",14.25
+regenerated_new/14/H/case-106371_JAY_ANNOTATION.png,"[10,11]",11.8
+regenerated_new/3/H/case-106374_JAY_ANNOTATION.png,"[10,5]",14.43
+regenerated_new/7/H/case-106374_JAY_ANNOTATION.png,"[10,13]",14.15
+regenerated_new/8/H/case-106374_JAY_ANNOTATION.png,"[14,13]",13.02
+regenerated_new/9/H/case-106374_JAY_ANNOTATION.png,"[3,14]",13.47
+regenerated_new/3/H/case-106456_JAY_ANNOTATION.png,"[3,5]",9.8
+regenerated_new/4/H/case-106456_JAY_ANNOTATION.png,"[12,10]",12.68
+regenerated_new/5/H/case-106456_JAY_ANNOTATION.png,"[10,5]",14.81
+regenerated_new/6/H/case-106456_JAY_ANNOTATION.png,"[10,1]",12.16
+regenerated_new/7/H/case-106456_JAY_ANNOTATION.png,"[10,3]",10.92
+regenerated_new/8/H/case-106456_JAY_ANNOTATION.png,"[14,5]",15.04
+regenerated_new/9/H/case-106456_JAY_ANNOTATION.png,"[13,4]",12.06
+regenerated_new/13/H/case-106456_JAY_ANNOTATION.png,"[5,13]",11.89
+regenerated_new/3/H/case-106464_JAY_ANNOTATION.png,"[3,11]",13.9
+regenerated_new/6/H/case-106464_JAY_ANNOTATION.png,"[3,13]",15.16
+regenerated_new/8/H/case-106464_JAY_ANNOTATION.png,"[13,10]",16.41
+regenerated_new/9/H/case-106464_JAY_ANNOTATION.png,"[5,3]",14.09
+regenerated_new/3/H/case-106541_JAY_ANNOTATION.png,"[13,10]",15.03
+regenerated_new/7/H/case-106541_JAY_ANNOTATION.png,"[10,5]",12.43
+regenerated_new/8/H/case-106541_JAY_ANNOTATION.png,"[11,10]",12.5
+regenerated_new/9/H/case-106541_JAY_ANNOTATION.png,"[10,3]",13.47
+regenerated_new/3/H/case-106569_JAY_ANNOTATION.png,"[2,10]",10.73
+regenerated_new/5/H/case-106569_JAY_ANNOTATION.png,"[13,5]",16.73
+regenerated_new/8/H/case-106569_JAY_ANNOTATION.png,"[10,11]",15.68
+regenerated_new/9/H/case-106569_JAY_ANNOTATION.png,"[11,14]",16.54
+regenerated_new/3/H/case-106811_JAY_ANNOTATION.png,"[5,10]",12.17
+regenerated_new/4/H/case-106811_JAY_ANNOTATION.png,"[10,2]",14.64
+regenerated_new/7/H/case-106811_JAY_ANNOTATION.png,"[10,13]",12.52
+regenerated_new/8/H/case-106811_JAY_ANNOTATION.png,"[14,11]",12.96
+regenerated_new/9/H/case-106811_JAY_ANNOTATION.png,"[10,13]",12.69
+regenerated_new/12/H/case-106811_JAY_ANNOTATION.png,"[12,10]",12.63
+regenerated_new/3/H/case-106835_JAY_ANNOTATION.png,"[10,5]",13.91
+regenerated_new/8/H/case-106835_JAY_ANNOTATION.png,"[14,9]",12.09
+regenerated_new/9/H/case-106835_JAY_ANNOTATION.png,"[10,5]",14.4
+regenerated_new/3/H/case-106856_JAY_ANNOTATION.png,"[5,10]",11.97
+regenerated_new/4/H/case-106856_JAY_ANNOTATION.png,"[12,4]",11.54
+regenerated_new/6/H/case-106856_JAY_ANNOTATION.png,"[10,3]",10.85
+regenerated_new/8/H/case-106856_JAY_ANNOTATION.png,"[10,11]",16.44
+regenerated_new/9/H/case-106856_JAY_ANNOTATION.png,"[10,11]",16.52
+regenerated_new/3/H/case-106882_JAY_ANNOTATION.png,"[10,5]",10.86
+regenerated_new/6/H/case-106882_JAY_ANNOTATION.png,"[1,10]",15.78
+regenerated_new/7/H/case-106882_JAY_ANNOTATION.png,"[3,5]",11.03
+regenerated_new/8/H/case-106882_JAY_ANNOTATION.png,"[13,9]",13.04
+regenerated_new/9/H/case-106882_JAY_ANNOTATION.png,"[10,12]",15.35
+regenerated_new/3/H/case-106963_JAY_ANNOTATION.png,"[5,10]",13.17
+regenerated_new/4/H/case-106963_JAY_ANNOTATION.png,"[5,10]",10.92
+regenerated_new/6/H/case-106963_JAY_ANNOTATION.png,"[10,4]",16.47
+regenerated_new/7/H/case-106963_JAY_ANNOTATION.png,"[5,10]",14.14
+regenerated_new/8/H/case-106963_JAY_ANNOTATION.png,"[10,13]",13.74
+regenerated_new/3/H/case-106973_JAY_ANNOTATION.png,"[2,10]",12.87
+regenerated_new/4/H/case-106973_JAY_ANNOTATION.png,"[4,2]",13.91
+regenerated_new/5/H/case-106973_JAY_ANNOTATION.png,"[13,5]",15.49
+regenerated_new/6/H/case-106973_JAY_ANNOTATION.png,"[1,10]",10.69
+regenerated_new/7/H/case-106973_JAY_ANNOTATION.png,"[7,1]",11.91
+regenerated_new/8/H/case-106973_JAY_ANNOTATION.png,"[10,13]",14.8
+regenerated_new/9/H/case-106973_JAY_ANNOTATION.png,"[10,11]",11.19
+regenerated_new/3/H/case-106991_JAY_ANNOTATION.png,"[3,5]",13.21
+regenerated_new/5/H/case-106991_JAY_ANNOTATION.png,"[5,13]",12.91
+regenerated_new/6/H/case-106991_JAY_ANNOTATION.png,"[10,13]",16.16
+regenerated_new/7/H/case-106991_JAY_ANNOTATION.png,"[10,5]",13.87
+regenerated_new/8/H/case-106991_JAY_ANNOTATION.png,"[10,11]",15.28
+regenerated_new/9/H/case-106991_JAY_ANNOTATION.png,"[5,12]",12.93
+regenerated_new/3/H/case-107068_JAY_ANNOTATION.png,"[5,13]",11.38
+regenerated_new/5/H/case-107068_JAY_ANNOTATION.png,"[13,5]",13.73
+regenerated_new/7/H/case-107068_JAY_ANNOTATION.png,"[7,13]",13.46
+regenerated_new/8/H/case-107068_JAY_ANNOTATION.png,"[11,10]",15.12
+regenerated_new/9/H/case-107068_JAY_ANNOTATION.png,"[10,4]",15.99
+regenerated_new/3/H/case-107184_JAY_ANNOTATION.png,"[10,5]",13.19
+regenerated_new/6/H/case-107184_JAY_ANNOTATION.png,"[10,5]",13.98
+regenerated_new/8/H/case-107184_JAY_ANNOTATION.png,"[10,12]",14.17
+regenerated_new/9/H/case-107184_JAY_ANNOTATION.png,"[12,14]",14.46
+regenerated_new/6/H/case-107267_JAY_ANNOTATION.png,"[5,3]",12.82
+regenerated_new/7/H/case-107267_JAY_ANNOTATION.png,"[11,10]",14.76
+regenerated_new/9/H/case-107267_JAY_ANNOTATION.png,"[10,5]",14.18
+regenerated_new/3/H/case-107296_JAY_ANNOTATION.png,"[5,10]",11.12
+regenerated_new/7/H/case-107296_JAY_ANNOTATION.png,"[11,2]",17.23
+regenerated_new/8/H/case-107296_JAY_ANNOTATION.png,"[10,5]",15.64
+regenerated_new/9/H/case-107296_JAY_ANNOTATION.png,"[14,2]",12.33
+regenerated_new/12/H/case-107296_JAY_ANNOTATION.png,"[13,10]",16.29
+regenerated_new/3/H/case-110146_JAY_ANNOTATION.png,"[10,2]",12.36
+regenerated_new/7/H/case-110146_JAY_ANNOTATION.png,"[10,11]",15.11
+regenerated_new/8/H/case-110146_JAY_ANNOTATION.png,"[10,13]",12.92
+regenerated_new/9/H/case-110146_JAY_ANNOTATION.png,"[10,12]",16.01
+regenerated_new/3/H/case-110184_JAY_ANNOTATION.png,"[4,2]",11.44
+regenerated_new/8/H/case-110184_JAY_ANNOTATION.png,"[5,12]",12.04
+regenerated_new/9/H/case-110184_JAY_ANNOTATION.png,"[10,5]",12.24
+regenerated_new/3/H/case-110307_JAY_ANNOTATION.png,"[10,3]",13.89
+regenerated_new/4/H/case-110307_JAY_ANNOTATION.png,"[12,4]",13.91
+regenerated_new/5/H/case-110307_JAY_ANNOTATION.png,"[13,5]",14.78
+regenerated_new/6/H/case-110307_JAY_ANNOTATION.png,"[10,2]",12.78
+regenerated_new/7/H/case-110307_JAY_ANNOTATION.png,"[10,5]",13.46
+regenerated_new/8/H/case-110307_JAY_ANNOTATION.png,"[13,10]",14.42
+regenerated_new/9/H/case-110307_JAY_ANNOTATION.png,"[13,11]",13.81
+regenerated_new/13/H/case-110307_JAY_ANNOTATION.png,"[10,5]",13.11
+regenerated_new/14/H/case-110307_JAY_ANNOTATION.png,"[10,11]",12.59
+regenerated_new/3/H/case-110324_JAY_ANNOTATION.png,"[3,10]",16.45
+regenerated_new/4/H/case-110324_JAY_ANNOTATION.png,"[10,11]",15.1
+regenerated_new/6/H/case-110324_JAY_ANNOTATION.png,"[14,12]",14.71
+regenerated_new/7/H/case-110324_JAY_ANNOTATION.png,"[3,7]",12.71
+regenerated_new/8/H/case-110324_JAY_ANNOTATION.png,"[10,5]",14.48
+regenerated_new/9/H/case-110324_JAY_ANNOTATION.png,"[10,11]",14.14
+regenerated_new/14/H/case-110324_JAY_ANNOTATION.png,"[10,11]",13.28
+regenerated_new/3/H/case-110378_JAY_ANNOTATION.png,"[5,2]",12.77
+regenerated_new/7/H/case-110378_JAY_ANNOTATION.png,"[10,5]",15.26
+regenerated_new/8/H/case-110378_JAY_ANNOTATION.png,"[10,5]",15.37
+regenerated_new/9/H/case-110378_JAY_ANNOTATION.png,"[11,10]",11.87
+regenerated_new/3/H/case-110382_JAY_ANNOTATION.png,"[2,4]",13.98
+regenerated_new/5/H/case-110382_JAY_ANNOTATION.png,"[13,5]",12.41
+regenerated_new/7/H/case-110382_JAY_ANNOTATION.png,"[10,5]",12.55
+regenerated_new/8/H/case-110382_JAY_ANNOTATION.png,"[10,14]",14.47
+regenerated_new/3/H/case-110393_JAY_ANNOTATION.png,"[2,11]",13.73
+regenerated_new/5/H/case-110393_JAY_ANNOTATION.png,"[10,5]",11.1
+regenerated_new/6/H/case-110393_JAY_ANNOTATION.png,"[10,11]",11.89
+regenerated_new/7/H/case-110393_JAY_ANNOTATION.png,"[10,5]",10.76
+regenerated_new/8/H/case-110393_JAY_ANNOTATION.png,"[10,11]",15.39
+regenerated_new/9/H/case-110393_JAY_ANNOTATION.png,"[14,11]",16.69
+regenerated_new/3/H/case-110447_JAY_ANNOTATION.png,"[10,5]",9.8
+regenerated_new/7/H/case-110447_JAY_ANNOTATION.png,"[11,12]",15.65
+regenerated_new/8/H/case-110447_JAY_ANNOTATION.png,"[10,12]",13.21
+regenerated_new/9/H/case-110447_JAY_ANNOTATION.png,"[10,13]",12.07
+regenerated_new/3/H/case-110519_JAY_ANNOTATION.png,"[10,4]",12.0
+regenerated_new/6/H/case-110519_JAY_ANNOTATION.png,"[10,5]",13.54
+regenerated_new/7/H/case-110519_JAY_ANNOTATION.png,"[5,10]",12.23
+regenerated_new/8/H/case-110519_JAY_ANNOTATION.png,"[14,13]",13.73
+regenerated_new/9/H/case-110519_JAY_ANNOTATION.png,"[10,11]",11.72
+regenerated_new/14/H/case-110519_JAY_ANNOTATION.png,"[10,13]",11.02
+regenerated_new/3/H/case-110588_JAY_ANNOTATION.png,"[5,10]",11.57
+regenerated_new/8/H/case-110588_JAY_ANNOTATION.png,"[13,5]",15.47
+regenerated_new/9/H/case-110588_JAY_ANNOTATION.png,"[11,10]",12.34
+regenerated_new/3/H/case-110636_JAY_ANNOTATION.png,"[3,10]",15.4
+regenerated_new/7/H/case-110636_JAY_ANNOTATION.png,"[5,10]",15.22
+regenerated_new/8/H/case-110636_JAY_ANNOTATION.png,"[5,12]",10.77
+regenerated_new/9/H/case-110636_JAY_ANNOTATION.png,"[12,13]",15.29
+regenerated_new/3/H/case-110640_JAY_ANNOTATION.png,"[5,10]",15.45
+regenerated_new/6/H/case-110640_JAY_ANNOTATION.png,"[3,10]",11.52
+regenerated_new/7/H/case-110640_JAY_ANNOTATION.png,"[3,10]",11.27
+regenerated_new/8/H/case-110640_JAY_ANNOTATION.png,"[10,13]",13.64
+regenerated_new/9/H/case-110640_JAY_ANNOTATION.png,"[10,11]",14.06
+regenerated_new/3/H/case-110649_JAY_ANNOTATION.png,"[10,5]",14.16
+regenerated_new/8/H/case-110649_JAY_ANNOTATION.png,"[10,4]",15.29
+regenerated_new/9/H/case-110649_JAY_ANNOTATION.png,"[12,10]",10.05
+regenerated_new/14/H/case-110649_JAY_ANNOTATION.png,"[10,11]",11.65
+regenerated_new/4/H/case-110664_JAY_ANNOTATION.png,"[10,12]",13.32
+regenerated_new/6/H/case-110664_JAY_ANNOTATION.png,"[5,10]",13.06
+regenerated_new/8/H/case-110664_JAY_ANNOTATION.png,"[14,12]",11.63
+regenerated_new/9/H/case-110664_JAY_ANNOTATION.png,"[13,10]",13.97
+regenerated_new/3/H/case-110831_JAY_ANNOTATION.png,"[10,5]",12.32
+regenerated_new/6/H/case-110831_JAY_ANNOTATION.png,"[2,10]",13.8
+regenerated_new/7/H/case-110831_JAY_ANNOTATION.png,"[10,7]",13.53
+regenerated_new/8/H/case-110831_JAY_ANNOTATION.png,"[14,11]",14.77
+regenerated_new/3/H/case-110870_JAY_ANNOTATION.png,"[2,4]",12.6
+regenerated_new/4/H/case-110870_JAY_ANNOTATION.png,"[12,4]",12.68
+regenerated_new/7/H/case-110870_JAY_ANNOTATION.png,"[10,3]",12.33
+regenerated_new/8/H/case-110870_JAY_ANNOTATION.png,"[13,5]",11.2
+regenerated_new/9/H/case-110870_JAY_ANNOTATION.png,"[11,10]",12.16
+regenerated_new/3/H/case-111040_JAY_ANNOTATION.png,"[3,10]",12.61
+regenerated_new/6/H/case-111040_JAY_ANNOTATION.png,"[2,10]",11.66
+regenerated_new/7/H/case-111040_JAY_ANNOTATION.png,"[10,5]",16.85
+regenerated_new/8/H/case-111040_JAY_ANNOTATION.png,"[13,5]",12.51
+regenerated_new/9/H/case-111040_JAY_ANNOTATION.png,"[14,11]",12.85
+regenerated_new/3/H/case-111057_JAY_ANNOTATION.png,"[2,10]",12.42
+regenerated_new/7/H/case-111057_JAY_ANNOTATION.png,"[10,5]",11.07
+regenerated_new/8/H/case-111057_JAY_ANNOTATION.png,"[10,5]",12.24
+regenerated_new/9/H/case-111057_JAY_ANNOTATION.png,"[10,13]",11.98
+regenerated_new/3/H/case-111159_JAY_ANNOTATION.png,"[2,10]",13.9
+regenerated_new/7/H/case-111159_JAY_ANNOTATION.png,"[10,5]",13.11
+regenerated_new/8/H/case-111159_JAY_ANNOTATION.png,"[3,10]",12.51
+regenerated_new/9/H/case-111159_JAY_ANNOTATION.png,"[2,10]",12.68
+regenerated_new/3/H/case-111162_JAY_ANNOTATION.png,"[3,10]",11.37
+regenerated_new/7/H/case-111162_JAY_ANNOTATION.png,"[14,5]",14.97
+regenerated_new/8/H/case-111162_JAY_ANNOTATION.png,"[14,11]",12.24
+regenerated_new/3/H/case-111165_JAY_ANNOTATION.png,"[10,2]",12.51
+regenerated_new/5/H/case-111165_JAY_ANNOTATION.png,"[10,5]",12.34
+regenerated_new/7/H/case-111165_JAY_ANNOTATION.png,"[10,3]",11.82
+regenerated_new/8/H/case-111165_JAY_ANNOTATION.png,"[11,2]",12.57
+regenerated_new/9/H/case-111165_JAY_ANNOTATION.png,"[10,12]",17.04
+regenerated_new/12/H/case-111165_JAY_ANNOTATION.png,"[10,11]",14.65
+regenerated_new/3/H/case-111178_JAY_ANNOTATION.png,"[5,10]",14.57
+regenerated_new/4/H/case-111178_JAY_ANNOTATION.png,"[2,10]",14.88
+regenerated_new/8/H/case-111178_JAY_ANNOTATION.png,"[11,12]",16.28
+regenerated_new/9/H/case-111178_JAY_ANNOTATION.png,"[10,13]",12.51
+regenerated_new/12/H/case-111178_JAY_ANNOTATION.png,"[14,12]",14.78
+regenerated_new/3/H/case-111246_JAY_ANNOTATION.png,"[5,10]",10.79
+regenerated_new/7/H/case-111246_JAY_ANNOTATION.png,"[10,3]",12.37
+regenerated_new/8/H/case-111246_JAY_ANNOTATION.png,"[14,11]",11.81
+regenerated_new/9/H/case-111246_JAY_ANNOTATION.png,"[2,10]",14.72
+regenerated_new/3/H/case-111273_JAY_ANNOTATION.png,"[5,2]",13.0
+regenerated_new/5/H/case-111273_JAY_ANNOTATION.png,"[5,13]",11.6
+regenerated_new/6/H/case-111273_JAY_ANNOTATION.png,"[10,2]",11.28
+regenerated_new/7/H/case-111273_JAY_ANNOTATION.png,"[14,2]",14.1
+regenerated_new/8/H/case-111273_JAY_ANNOTATION.png,"[10,11]",12.5
+regenerated_new/9/H/case-111273_JAY_ANNOTATION.png,"[10,11]",17.39
+regenerated_new/3/H/case-111359_JAY_ANNOTATION.png,"[4,2]",11.45
+regenerated_new/6/H/case-111359_JAY_ANNOTATION.png,"[1,3]",10.41
+regenerated_new/8/H/case-111359_JAY_ANNOTATION.png,"[10,3]",11.73
+regenerated_new/3/H/case-111405_JAY_ANNOTATION.png,"[3,10]",13.39
+regenerated_new/7/H/case-111405_JAY_ANNOTATION.png,"[11,2]",13.91
+regenerated_new/8/H/case-111405_JAY_ANNOTATION.png,"[10,5]",16.7
+regenerated_new/9/H/case-111405_JAY_ANNOTATION.png,"[10,11]",14.34
+regenerated_new/3/H/case-111446_JAY_ANNOTATION.png,"[2,10]",13.03
+regenerated_new/5/H/case-111446_JAY_ANNOTATION.png,"[10,12]",13.84
+regenerated_new/8/H/case-111446_JAY_ANNOTATION.png,"[10,11]",15.38
+regenerated_new/9/H/case-111446_JAY_ANNOTATION.png,"[10,11]",14.53
+regenerated_new/12/H/case-111446_JAY_ANNOTATION.png,"[12,10]",12.42
+regenerated_new/3/H/case-111546_JAY_ANNOTATION.png,"[5,10]",12.95
+regenerated_new/5/H/case-111546_JAY_ANNOTATION.png,"[5,12]",12.7
+regenerated_new/8/H/case-111546_JAY_ANNOTATION.png,"[14,11]",16.08
+regenerated_new/9/H/case-111546_JAY_ANNOTATION.png,"[10,12]",14.52
+regenerated_new/3/H/case-111573_JAY_ANNOTATION.png,"[5,13]",10.25
+regenerated_new/7/H/case-111573_JAY_ANNOTATION.png,"[10,5]",12.16
+regenerated_new/8/H/case-111573_JAY_ANNOTATION.png,"[14,13]",12.77
+regenerated_new/9/H/case-111573_JAY_ANNOTATION.png,"[2,11]",15.3
+regenerated_new/3/H/case-111685_JAY_ANNOTATION.png,"[5,12]",11.6
+regenerated_new/5/H/case-111685_JAY_ANNOTATION.png,"[10,5]",13.01
+regenerated_new/7/H/case-111685_JAY_ANNOTATION.png,"[14,13]",16.69
+regenerated_new/8/H/case-111685_JAY_ANNOTATION.png,"[10,12]",13.92
+regenerated_new/9/H/case-111685_JAY_ANNOTATION.png,"[12,11]",13.48
+regenerated_new/3/H/case-111755_JAY_ANNOTATION.png,"[3,5]",13.39
+regenerated_new/6/H/case-111755_JAY_ANNOTATION.png,"[3,11]",15.72
+regenerated_new/7/H/case-111755_JAY_ANNOTATION.png,"[3,1]",15.25
+regenerated_new/8/H/case-111755_JAY_ANNOTATION.png,"[14,12]",14.89
+regenerated_new/9/H/case-111755_JAY_ANNOTATION.png,"[14,11]",13.82
+regenerated_new/3/H/case-111791_JAY_ANNOTATION.png,"[10,5]",11.98
+regenerated_new/7/H/case-111791_JAY_ANNOTATION.png,"[14,13]",16.0
+regenerated_new/8/H/case-111791_JAY_ANNOTATION.png,"[11,13]",14.32
+regenerated_new/9/H/case-111791_JAY_ANNOTATION.png,"[10,13]",11.7
+regenerated_new/3/H/case-111819_JAY_ANNOTATION.png,"[10,5]",12.69
+regenerated_new/7/H/case-111819_JAY_ANNOTATION.png,"[2,13]",16.99
+regenerated_new/8/H/case-111819_JAY_ANNOTATION.png,"[10,5]",14.53
+regenerated_new/9/H/case-111819_JAY_ANNOTATION.png,"[10,11]",11.39
+regenerated_new/3/H/case-111830_JAY_ANNOTATION.png,"[3,11]",14.26
+regenerated_new/4/H/case-111830_JAY_ANNOTATION.png,"[10,5]",11.46
+regenerated_new/5/H/case-111830_JAY_ANNOTATION.png,"[10,5]",13.65
+regenerated_new/7/H/case-111830_JAY_ANNOTATION.png,"[10,11]",14.61
+regenerated_new/8/H/case-111830_JAY_ANNOTATION.png,"[3,5]",13.56
+regenerated_new/9/H/case-111830_JAY_ANNOTATION.png,"[5,13]",14.69
+regenerated_new/12/H/case-111830_JAY_ANNOTATION.png,"[13,5]",15.61
+regenerated_new/14/H/case-111830_JAY_ANNOTATION.png,"[10,2]",10.52
+regenerated_new/3/H/case-111863_JAY_ANNOTATION.png,"[11,5]",13.69
+regenerated_new/5/H/case-111863_JAY_ANNOTATION.png,"[5,12]",14.69
+regenerated_new/6/H/case-111863_JAY_ANNOTATION.png,"[10,4]",13.71
+regenerated_new/7/H/case-111863_JAY_ANNOTATION.png,"[10,5]",16.94
+regenerated_new/8/H/case-111863_JAY_ANNOTATION.png,"[12,14]",14.33
+regenerated_new/9/H/case-111863_JAY_ANNOTATION.png,"[10,11]",15.38
+regenerated_new/3/H/case-111923_JAY_ANNOTATION.png,"[2,4]",11.99
+regenerated_new/4/H/case-111923_JAY_ANNOTATION.png,"[5,10]",14.86
+regenerated_new/7/H/case-111923_JAY_ANNOTATION.png,"[3,10]",10.41
+regenerated_new/8/H/case-111923_JAY_ANNOTATION.png,"[11,10]",12.85
+regenerated_new/9/H/case-111923_JAY_ANNOTATION.png,"[10,13]",11.28
+regenerated_new/3/H/case-112038_JAY_ANNOTATION.png,"[3,5]",11.28
+regenerated_new/6/H/case-112038_JAY_ANNOTATION.png,"[10,3]",14.15
+regenerated_new/8/H/case-112038_JAY_ANNOTATION.png,"[14,13]",16.62
+regenerated_new/9/H/case-112038_JAY_ANNOTATION.png,"[2,13]",13.74
+regenerated_new/3/H/case-112071_JAY_ANNOTATION.png,"[12,3]",11.55
+regenerated_new/4/H/case-112071_JAY_ANNOTATION.png,"[2,12]",9.83
+regenerated_new/6/H/case-112071_JAY_ANNOTATION.png,"[10,5]",12.72
+regenerated_new/7/H/case-112071_JAY_ANNOTATION.png,"[10,13]",10.87
+regenerated_new/8/H/case-112071_JAY_ANNOTATION.png,"[10,11]",15.15
+regenerated_new/9/H/case-112071_JAY_ANNOTATION.png,"[10,12]",14.38
+regenerated_new/3/H/case-112086_JAY_ANNOTATION.png,"[2,10]",11.92
+regenerated_new/7/H/case-112086_JAY_ANNOTATION.png,"[10,5]",15.16
+regenerated_new/8/H/case-112086_JAY_ANNOTATION.png,"[10,5]",11.65
+regenerated_new/9/H/case-112086_JAY_ANNOTATION.png,"[10,13]",13.51
+regenerated_new/3/H/case-112092_JAY_ANNOTATION.png,"[5,10]",11.91
+regenerated_new/9/H/case-112092_JAY_ANNOTATION.png,"[10,11]",11.67
+regenerated_new/3/H/case-112132_JAY_ANNOTATION.png,"[2,10]",10.97
+regenerated_new/8/H/case-112132_JAY_ANNOTATION.png,"[14,11]",16.57
+regenerated_new/9/H/case-112132_JAY_ANNOTATION.png,"[12,14]",13.93
+regenerated_new/3/H/case-112180_JAY_ANNOTATION.png,"[2,10]",15.12
+regenerated_new/7/H/case-112180_JAY_ANNOTATION.png,"[11,2]",10.74
+regenerated_new/8/H/case-112180_JAY_ANNOTATION.png,"[10,11]",12.85
+regenerated_new/9/H/case-112180_JAY_ANNOTATION.png,"[10,11]",13.45
+regenerated_new/12/H/case-112180_JAY_ANNOTATION.png,"[10,12]",12.76
+regenerated_new/3/H/case-112208_JAY_ANNOTATION.png,"[5,2]",13.63
+regenerated_new/6/H/case-112208_JAY_ANNOTATION.png,"[10,3]",16.09
+regenerated_new/7/H/case-112208_JAY_ANNOTATION.png,"[10,3]",12.23
+regenerated_new/8/H/case-112208_JAY_ANNOTATION.png,"[5,13]",15.47
+regenerated_new/7/H/case-112234_JAY_ANNOTATION.png,"[11,5]",12.34
+regenerated_new/8/H/case-112234_JAY_ANNOTATION.png,"[10,5]",13.82
+regenerated_new/9/H/case-112234_JAY_ANNOTATION.png,"[13,5]",15.14
+regenerated_new/3/H/case-112249_JAY_ANNOTATION.png,"[10,5]",12.25
+regenerated_new/5/H/case-112249_JAY_ANNOTATION.png,"[5,13]",14.62
+regenerated_new/7/H/case-112249_JAY_ANNOTATION.png,"[5,13]",13.31
+regenerated_new/14/H/case-112249_JAY_ANNOTATION.png,"[10,11]",12.52
+regenerated_new/5/H/case-112292_JAY_ANNOTATION.png,"[5,12]",16.12
+regenerated_new/6/H/case-112292_JAY_ANNOTATION.png,"[3,10]",12.54
+regenerated_new/8/H/case-112292_JAY_ANNOTATION.png,"[10,13]",14.66
+regenerated_new/9/H/case-112292_JAY_ANNOTATION.png,"[10,13]",12.77
+regenerated_new/3/H/case-112297_JAY_ANNOTATION.png,"[10,4]",10.96
+regenerated_new/4/H/case-112297_JAY_ANNOTATION.png,"[5,3]",14.02
+regenerated_new/7/H/case-112297_JAY_ANNOTATION.png,"[10,5]",14.44
+regenerated_new/8/H/case-112297_JAY_ANNOTATION.png,"[10,13]",14.73
+regenerated_new/9/H/case-112297_JAY_ANNOTATION.png,"[10,12]",12.16
+regenerated_new/3/H/case-112348_JAY_ANNOTATION.png,"[10,5]",12.35
+regenerated_new/8/H/case-112348_JAY_ANNOTATION.png,"[10,11]",14.54
+regenerated_new/9/H/case-112348_JAY_ANNOTATION.png,"[10,4]",14.8
+regenerated_new/3/H/case-112364_JAY_ANNOTATION.png,"[3,5]",14.04
+regenerated_new/6/H/case-112364_JAY_ANNOTATION.png,"[2,4]",11.19
+regenerated_new/7/H/case-112364_JAY_ANNOTATION.png,"[10,13]",13.92
+regenerated_new/8/H/case-112364_JAY_ANNOTATION.png,"[10,12]",11.84
+regenerated_new/9/H/case-112364_JAY_ANNOTATION.png,"[5,10]",16.04
+regenerated_new/3/H/case-112387_JAY_ANNOTATION.png,"[3,5]",11.14
+regenerated_new/7/H/case-112387_JAY_ANNOTATION.png,"[10,3]",13.75
+regenerated_new/9/H/case-112387_JAY_ANNOTATION.png,"[10,4]",13.15
+regenerated_new/3/H/case-112425_JAY_ANNOTATION.png,"[5,2]",11.72
+regenerated_new/4/H/case-112425_JAY_ANNOTATION.png,"[10,5]",14.34
+regenerated_new/7/H/case-112425_JAY_ANNOTATION.png,"[10,5]",16.55
+regenerated_new/8/H/case-112425_JAY_ANNOTATION.png,"[5,11]",10.6
+regenerated_new/9/H/case-112425_JAY_ANNOTATION.png,"[11,10]",13.21
+regenerated_new/3/H/case-112437_JAY_ANNOTATION.png,"[3,5]",14.17
+regenerated_new/6/H/case-112437_JAY_ANNOTATION.png,"[2,10]",11.36
+regenerated_new/7/H/case-112437_JAY_ANNOTATION.png,"[10,5]",12.58
+regenerated_new/8/H/case-112437_JAY_ANNOTATION.png,"[10,13]",13.58
+regenerated_new/9/H/case-112437_JAY_ANNOTATION.png,"[14,11]",11.93
+regenerated_new/3/H/case-112453_JAY_ANNOTATION.png,"[3,5]",11.4
+regenerated_new/8/H/case-112453_JAY_ANNOTATION.png,"[10,5]",13.76
+regenerated_new/3/H/case-112536_JAY_ANNOTATION.png,"[5,10]",15.17
+regenerated_new/4/H/case-112536_JAY_ANNOTATION.png,"[4,12]",14.91
+regenerated_new/7/H/case-112536_JAY_ANNOTATION.png,"[10,5]",13.93
+regenerated_new/8/H/case-112536_JAY_ANNOTATION.png,"[10,13]",12.89
+regenerated_new/13/H/case-112536_JAY_ANNOTATION.png,"[13,5]",14.91
+regenerated_new/3/H/case-112545_JAY_ANNOTATION.png,"[10,5]",12.54
+regenerated_new/6/H/case-112545_JAY_ANNOTATION.png,"[2,14]",10.7
+regenerated_new/7/H/case-112545_JAY_ANNOTATION.png,"[13,4]",15.0
+regenerated_new/8/H/case-112545_JAY_ANNOTATION.png,"[10,13]",11.57
+regenerated_new/9/H/case-112545_JAY_ANNOTATION.png,"[11,10]",12.34
+regenerated_new/14/H/case-112545_JAY_ANNOTATION.png,"[10,11]",13.86
+regenerated_new/3/H/case-112559_JAY_ANNOTATION.png,"[10,5]",14.17
+regenerated_new/6/H/case-112559_JAY_ANNOTATION.png,"[3,11]",11.2
+regenerated_new/7/H/case-112559_JAY_ANNOTATION.png,"[3,10]",13.92
+regenerated_new/8/H/case-112559_JAY_ANNOTATION.png,"[10,13]",13.31
+regenerated_new/9/H/case-112559_JAY_ANNOTATION.png,"[10,12]",13.24

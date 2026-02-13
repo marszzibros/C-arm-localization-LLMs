@@ -2,13 +2,6 @@
 
 This project explores the use of Vision-Language Models (VLMs) for C-arm localization and navigation tasks.
 
-## 🚀 Getting Started
-
-Ensure you have the `xray_llm` conda environment set up:
-
-```bash
-conda activate xray_llm
-```
 
 ## 📂 Project Structure
 

@@ -6,7 +6,7 @@ This project explores the use of Vision-Language Models (VLMs) for C-arm localiz
 
 For full methodological details, please refer to our paper:  
 [**Autonomous skeletal landmark localization toward agentic C-arm control (arXiv)**](https://arxiv.org/html/2604.18740v1)  
-Published version: [Springer](https://link.springer.com/article/10.1007/s11548-026-03632-0)
+Published version: [Springer (IJCARS)](https://link.springer.com/article/10.1007/s11548-026-03632-0)
 
 ## 📂 Project Structure
 
